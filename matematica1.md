@@ -18,3 +18,6 @@ el conjunto P posee como elementos a los números pares  P={pares}  P={x:x es pa
 práctica - A={1,2,3,4,5}   ==>  A={x ∈ N : x <= 5}
 B={...,−3,−2,−1,0,1,2,3,4,5}  ==>   B={x ∈ Z : x <= 5}
 C={−2,−1,0,1,2,3,4}   ==>  C={x ∈ Z : -2 <= x <= 4}
+### Diagrama de Venn
+- Representación gráfica de los conjuntos y sus elementos. El o los conjuntos se dibujan como un círculo u óvalo y sus elementos con un punto (.) y escribiendo el elemento.
+![Ejemplo diagrama de Venn](./diagrama-de-venn.png)
