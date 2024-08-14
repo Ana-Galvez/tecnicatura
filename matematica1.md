@@ -25,3 +25,13 @@ C={−2,−1,0,1,2,3,4}   ==>  C={x ∈ Z : -2 <= x <= 4}
 - Es la cantidad de elementos que posee un conjunto. Se denota con # ej V={a,e,i,o,u} ==>  #V=5
 L={x:x es letra del alfabeto} ==>  #L=27
 P={2,4,6,8,...}  ==> #P=∞
+### Relaciones entre conjuntos
+1. Igualdad
+- Se dice que A=B si tienen los mismos elementos, sin importar si los elementos se repiten y/o están ordenados de diferentes formas
+ej C={1,2,3,4}, D={4,3,1,2,3,1}, E={1,3,1,2,4,2,1}  ==>  C=D=E
+2. Desigualdad
+A≠B si no hay elementos iguales
+3. Inclusión
+- Un conjunto A está incluido en un conjunto B, si todo elemento de A también está en B  A⊆B, también se dice A es subconjunto de B
+  - Subconjunto propio
+   - B es subconjunto de A, si B es subconjunto y tiene menos elementos que A.  B⊊A  sería B⊆A y B≠A
