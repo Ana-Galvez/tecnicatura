@@ -56,7 +56,11 @@ ej A={1,2,3} y B={1}  B⊊A ==>  A∪B=A  ==> porque todos los elementos B está
 
 ![Ejemplo operación unión](./operacion-union-3.png)
 
-2. Intersección
+2. Intersección: son los elementos que tienen en común todos los conjuntos
+A∩B A intersección B  y en símbolos  A∩B={x:x∈A y x∈B}
+ej A={b,i,r,o,m,e} y B={j,p,e} ==> A∩B={e}
+
+![Ejemplo operación intersección](./operacion-interseccion.png)
 3. Diferencia
 4. Complemento
 
