@@ -35,3 +35,8 @@ A≠B si no hay elementos iguales
 - Un conjunto A está incluido en un conjunto B, si todo elemento de A también está en B  A⊆B, también se dice A es subconjunto de B
   - Subconjunto propio
    - B es subconjunto de A, si B es subconjunto y tiene menos elementos que A.  B⊊A  sería B⊆A y B≠A
+### Conjunto Universal
+- Es el conjunto que agrupa a todos los conjuntos. Se denota con U con un rectángulo en el diagrama de Venn
+- Sus elementos dependeran de lo que se esté desarrollando.
+ej A={1,4,7}  su conjunto universal puede ser variado, como, los números naturales, los números enteros o el conjunto {1,2,3,4,5,6,7,8,9} o cualquier otro conjunto.
+![Ejemplo conjunto universal](./diagrama-de-venn-conjunto-universal.png)
