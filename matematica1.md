@@ -20,6 +20,7 @@ B={...,−3,−2,−1,0,1,2,3,4,5}  ==>   B={x ∈ Z : x <= 5}
 C={−2,−1,0,1,2,3,4}   ==>  C={x ∈ Z : -2 <= x <= 4}
 ### Diagrama de Venn
 - Representación gráfica de los conjuntos y sus elementos. El o los conjuntos se dibujan como un círculo u óvalo y sus elementos con un punto (.) y escribiendo el elemento.
+
 ![Ejemplo diagrama de Venn](./diagrama-de-venn.png)
 ### Cardinal de un conjunto
 - Es la cantidad de elementos que posee un conjunto. Se denota con # ej V={a,e,i,o,u} ==>  #V=5
@@ -39,10 +40,12 @@ A≠B si no hay elementos iguales
 - Es el conjunto que agrupa a todos los conjuntos. Se denota con U con un rectángulo en el diagrama de Venn
 - Sus elementos dependeran de lo que se esté desarrollando.
 ej A={1,4,7}  su conjunto universal puede ser variado, como, los números naturales, los números enteros o el conjunto {1,2,3,4,5,6,7,8,9} o cualquier otro conjunto.
+
 ![Ejemplo conjunto universal](./diagrama-de-venn-conjunto-universal.png)
 ### Operaciones entre conjuntos
 1. Unión
 2. Intersección
 3. Diferencia
 4. Complemento
+
 ![Ejemplo esquema operaciones entre conjuntos](./operaciones-entre-conjuntos.png)
