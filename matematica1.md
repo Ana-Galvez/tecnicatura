@@ -21,3 +21,7 @@ C={−2,−1,0,1,2,3,4}   ==>  C={x ∈ Z : -2 <= x <= 4}
 ### Diagrama de Venn
 - Representación gráfica de los conjuntos y sus elementos. El o los conjuntos se dibujan como un círculo u óvalo y sus elementos con un punto (.) y escribiendo el elemento.
 ![Ejemplo diagrama de Venn](./diagrama-de-venn.png)
+### Cardinal de un conjunto
+- Es la cantidad de elementos que posee un conjunto. Se denota con # ej V={a,e,i,o,u} ==>  #V=5
+L={x:x es letra del alfabeto} ==>  #L=27
+P={2,4,6,8,...}  ==> #P=∞
