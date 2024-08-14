@@ -43,9 +43,20 @@ ej A={1,4,7}  su conjunto universal puede ser variado, como, los números natura
 
 ![Ejemplo conjunto universal](./diagrama-de-venn-conjunto-universal.png)
 ### Operaciones entre conjuntos
-1. Unión
+
+![Ejemplo esquema operaciones entre conjuntos](./operaciones-entre-conjuntos.png)
+1. Unión: la unión de A∪B(A unión B) son todos los elementos de A, también todos los elementos de B y también los elementos comunes entre A y B
+ej A={b,i,r,o,m,e} y B={j,p,e} ==>  A∪B ={b,i,r,o,m,e,j,p}
+
+![Ejemplo operación unión](./operacion-union.png)
+ej C={1,3,5}, D={2,4,6} y E={7}  ==> C∪D∪E={1,2,3,4,5,6,7}
+
+![Ejemplo operación unión](./operacion-union-2.png)
+ej A={1,2,3} y B={1}  B⊊A ==>  A∪B=A  ==> porque todos los elementos B están dentro del conjunto A
+
+![Ejemplo operación unión](./operacion-union-3.png)
+
 2. Intersección
 3. Diferencia
 4. Complemento
 
-![Ejemplo esquema operaciones entre conjuntos](./operaciones-entre-conjuntos.png)
