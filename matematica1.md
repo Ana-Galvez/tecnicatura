@@ -6,3 +6,6 @@
 ### Conjunto vacío
 - Es el conjunto que no posee elementos
 - Se representa como ∅
+### Pertenencia
+- si x es un elemento del conjunto A, entonces x pertenece a A, x ∈ A.
+- si x no es un elemento del conjunto A, entonces x no pertenece a A, x ∉ A.
