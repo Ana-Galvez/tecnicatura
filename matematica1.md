@@ -40,3 +40,9 @@ A≠B si no hay elementos iguales
 - Sus elementos dependeran de lo que se esté desarrollando.
 ej A={1,4,7}  su conjunto universal puede ser variado, como, los números naturales, los números enteros o el conjunto {1,2,3,4,5,6,7,8,9} o cualquier otro conjunto.
 ![Ejemplo conjunto universal](./diagrama-de-venn-conjunto-universal.png)
+### Operaciones entre conjuntos
+1. Unión
+2. Intersección
+3. Diferencia
+4. Complemento
+![Ejemplo esquema operaciones entre conjuntos](./operaciones-entre-conjuntos.png)
