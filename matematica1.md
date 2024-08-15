@@ -69,6 +69,14 @@ ej A={1,2,3} y B={1} B⊊A ==> A∩B=B ==> porque todos los elementos B están d
 
 ![Ejemplo operación intersección](./operacion-interseccion-3.png)
 
-3. Diferencia
+3. Diferencia: son aquellos elementos que están en un conjunto pero que NO pertenecen a los otros conjuntos
+A-B   A-B={x:x∈A y x∉B} y de esto se deduce que A-B⊊A
+ej A={b,i,r,o,m,e} y B={j,p,e}  A-B={b,i,r,o,m}
+
+![Ejemplo operación diferencia](./operacion-diferencia.png)
+PERO NO ES LO MISMO A-B QUE B-A
+B-A={j,p}
+
+![Ejemplo operación diferencia](./operacion-diferencia-2.png)
 4. Complemento
 
