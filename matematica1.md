@@ -61,6 +61,14 @@ A∩B A intersección B  y en símbolos  A∩B={x:x∈A y x∈B}
 ej A={b,i,r,o,m,e} y B={j,p,e} ==> A∩B={e}
 
 ![Ejemplo operación intersección](./operacion-interseccion.png)
+ej P={1,2,3,4,5,6}, Q{5,6,7,9} y R{4,5,6,9,10}
+P∩Q∩R ={5,6}
+
+![Ejemplo operación intersección](./operacion-interseccion-2.png)
+ej A={1,2,3} y B={1} B⊊A ==> A∩B=B ==> porque todos los elementos B están dentro del conjunto A
+
+![Ejemplo operación intersección](./operacion-interseccion-3.png)
+
 3. Diferencia
 4. Complemento
 
