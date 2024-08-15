@@ -78,5 +78,25 @@ PERO NO ES LO MISMO A-B QUE B-A
 B-A={j,p}
 
 ![Ejemplo operación diferencia](./operacion-diferencia-2.png)
-4. Complemento
+4. Complemento: son aquellos elementos que solo pertenecen a los demás conjuntos y NO al conjunto mencionado o que NO pertenecen a la operación descripta.
+ej U-A ==> es el complemento de A respecto de U ==> A<sup>c</sup>
+ej U={a,e,i,o,u} y A={e,i} ==> A<sup>c</sup>=U-A={a,o,u}
 
+![Ejemplo operación complemento](./operacion-complemento.png)
+
+ej conjunto A y conjunto B
+Complemento de A  A<sup>c</sup>
+
+![Ejemplo operación complemento](./operacion-complemento-2.png)
+ej conjunto A y conjunto B
+Complemento de B  B<sup>c</sup>
+
+![Ejemplo operación complemento](./operacion-complemento-3.png)
+ej conjunto A y conjunto B
+Complemento de A∩B
+
+![Ejemplo operación complemento](./operacion-complemento-4.png)
+ej conjunto A y conjunto B
+Complemento de A∪B
+
+![Ejemplo operación complemento](./operacion-complemento-51.png)
