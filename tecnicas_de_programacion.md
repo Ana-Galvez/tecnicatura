@@ -64,6 +64,10 @@
 ## Información
 - Grupo de datos ya procesados y ordenados que nos permiten tomar decisiones y en programación podemos sumar el resolver problemas.
 
+## Variable
+- Es un contenedor de datos o información que se le da un nombre y un tipo de dato, guardandose en la memoria mientras funciona el programa( memoria ram)
+
+
 
 ## Estilos de codificación o escritura
 1. camelCase: diaDeLaSemana
