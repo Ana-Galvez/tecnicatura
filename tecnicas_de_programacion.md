@@ -22,8 +22,8 @@
   4. Diseño
 2. Codificación: expresar el diagrama con un lenguaje de programación.
 
-
-
+## Metodología Top Down (modularización)
+- Es un enfoque en donde prima el divide y vencerás, o sea, que un gran problema se divida en problemas pequeños. Lo que es en programación se usa en la programación modular, precisamente porque divide por módulos, o sea, es partes lo que es la codificación y/o archivos.
 
 ## Estilos de codificación o escritura
 1. camelCase: diaDeLaSemana
