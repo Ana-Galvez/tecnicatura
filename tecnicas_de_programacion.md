@@ -67,7 +67,12 @@
 ## Variable
 - Es un contenedor de datos o información que se le da un nombre y un tipo de dato, guardandose en la memoria mientras funciona el programa( memoria ram)
 
-
+### Cómo se declara una variable (como se la crea)
+- definir nombre_variable como tipo_de_dato  ej  Definir edad como Entero
+- Una variable debería estar como sustantivo y ser la mejor representación del o de los dato/s
+- Una variable no puede comenzar con Número, pero luego puede contener números  ej Definir 1edad como Entero  MALLLLLLLLLLLLLLL  ej Definir edad123 como Entero  Bien pero no tan bien porque no es la mejor representación
+- Una variable no puede comenzar con muchos símbolos, excepto _(guión de abajo) ej _edad Bien pero medio raro, es para casos específicos de algún lenguaje de programación. OJO, HAY LENGUAJES DE PROGRAMACIÓN QUE PUEDEN ACEPTAR OTROS SIGNOS AL PRINCIPIO, ej javascript acepta $
+ej BIEN  Definir edad_mayor como Entero,   Definir nombre como Cadena,  Definir numero1 como Entero
 
 ## Estilos de codificación o escritura
 1. camelCase: diaDeLaSemana
