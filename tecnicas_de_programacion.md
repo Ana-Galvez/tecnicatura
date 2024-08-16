@@ -1,4 +1,5 @@
-
+## Informática
+- del francés informatique (acrónimo de información y automático). Procesamiento automático de la información
 
 ## Programación
 - es una disciplina que busca lograr soluciones a determinados problemas usando la computadora
@@ -20,6 +21,7 @@
   3. Desarrollar el algoritmo
   4. Diseño
 2. Codificación: expresar el diagrama con un lenguaje de programación.
+
 
 
 
