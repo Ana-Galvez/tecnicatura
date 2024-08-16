@@ -61,6 +61,10 @@
 1. Datos simples: enteros(number, int), reales(decimales, float, double, decimal), cadena(string), lógico(true o false, bool, boolean). Son aquellos datos que ya no pueden reducirse más.
 2. Datos compuestos: son datos que dentro de estos pueden contener más datos, ya sean simples y/o compuestos. Array, objetos.
 
+## Información
+- Grupo de datos ya procesados y ordenados que nos permiten tomar decisiones y en programación podemos sumar el resolver problemas.
+
+
 ## Estilos de codificación o escritura
 1. camelCase: diaDeLaSemana
 2. PascalCase: DiaDeLaSemana  o también llamado UpperCamelCase
