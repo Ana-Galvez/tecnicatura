@@ -43,6 +43,11 @@
 2. Pseudocódigo: forma escrita de un algoritmo para que una persona lo entienda y lo pueda usar en cualquier lenguaje de programación
 3. Sistemas formales 4. Variables  5. Estructuras secuenciales
 
+### Los algoritmos en informática
+- Son los que permiten diseñar los programas
+- Sin algoritmos no existirían los programas
+- Pueden estar en cualquier lenguaje y computadora
+
 ## Estilos de codificación o escritura
 1. camelCase: diaDeLaSemana
 2. PascalCase: DiaDeLaSemana  o también llamado UpperCamelCase
