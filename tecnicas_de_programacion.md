@@ -25,6 +25,11 @@
 ## Metodología Top Down (modularización)
 - Es un enfoque en donde prima el divide y vencerás, o sea, que un gran problema se divida en problemas pequeños. Lo que es en programación se usa en la programación modular, precisamente porque divide por módulos, o sea, es partes lo que es la codificación y/o archivos.
 
+## Pseudocódigo
+- lenguaje de alto nivel, casi al lenguaje humano, que permite que los algoritmos puedan ser entendidos tanto por los humanos y por las máquinas. Es un paso previo a la codificación. Es un esquema básico del programa.
+
+
+
 ## Estilos de codificación o escritura
 1. camelCase: diaDeLaSemana
 2. PascalCase: DiaDeLaSemana  o también llamado UpperCamelCase
