@@ -55,6 +55,12 @@
   2. Si no hay error, el programa va a arrancar( ejecuta el programa): es el proceso donde la máquina lleva a cabo las instrucciones del código
 - El programador es el que buscar y debe resolver los problemas usando la computadora. (es el que realiza el programa)
 
+
+## Dato
+- valor o representación gráfica de algo concreto pero que por sí solo no significa nada. ej 18  18 qué?
+1. Datos simples: enteros(number, int), reales(decimales, float, double, decimal), cadena(string), lógico(true o false, bool, boolean). Son aquellos datos que ya no pueden reducirse más.
+2. Datos compuestos: son datos que dentro de estos pueden contener más datos, ya sean simples y/o compuestos. Array, objetos.
+
 ## Estilos de codificación o escritura
 1. camelCase: diaDeLaSemana
 2. PascalCase: DiaDeLaSemana  o también llamado UpperCamelCase
