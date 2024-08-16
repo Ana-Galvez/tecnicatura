@@ -48,6 +48,13 @@
 - Sin algoritmos no existirían los programas
 - Pueden estar en cualquier lenguaje y computadora
 
+### Cómo se codifica un algoritmo
+- Una computadora entiende el sistema binario (0 y 1), por lo que necesitamos de un compilador para qué el algoritmo codificado sea entendido por la computadora y que luego mande la respuesta para que entienda el ser humano.
+- Se escribe el código(programa fuente) y luego se lo va a compilar (probar el programa)
+  1. Si hay algún error, se detiene la compilación y obvio hay que buscar el error y volver a compilar
+  2. Si no hay error, el programa va a arrancar( ejecuta el programa): es el proceso donde la máquina lleva a cabo las instrucciones del código
+- El programador es el que buscar y debe resolver los problemas usando la computadora. (es el que realiza el programa)
+
 ## Estilos de codificación o escritura
 1. camelCase: diaDeLaSemana
 2. PascalCase: DiaDeLaSemana  o también llamado UpperCamelCase
