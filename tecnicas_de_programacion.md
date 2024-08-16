@@ -38,6 +38,10 @@
 - Entrada: puede ser 0 o más entradas. Cantidad de datos de inicio (escrito en el algoritmo o generado por él) (Estado inicial o input)
 - Salida: puede ser 1 o más resultados o datos. (Resultado o output)
 
+### Cómo se representan los algoritmos
+1. Diagrama de flujo: son gráficos donde se usan símbolos conectados por flechas y están regidos por ISO. Sirven para algoritmos pequeños
+2. Pseudocódigo: forma escrita de un algoritmo para que una persona lo entienda y lo pueda usar en cualquier lenguaje de programación
+3. Sistemas formales 4. Variables  5. Estructuras secuenciales
 
 ## Estilos de codificación o escritura
 1. camelCase: diaDeLaSemana
