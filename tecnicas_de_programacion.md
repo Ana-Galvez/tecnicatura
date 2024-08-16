@@ -5,5 +5,7 @@
 
 ## Estilos de codificación o escritura
 1. camelCase: diaDeLaSemana
-2. snake_case: dia_de_la_semana
-3. PascalCase: Dia_de_la_semana
+2. PascalCase: DiaDeLaSemana  o también llamado UpperCamelCase
+3. snake_case: dia_de_la_semana
+4. kebab-case: dia-de-la-semana
+5. Train-Case: Dia-De-La-Semana
