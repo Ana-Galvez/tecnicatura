@@ -28,6 +28,15 @@
 ## Pseudocódigo
 - lenguaje de alto nivel, casi al lenguaje humano, que permite que los algoritmos puedan ser entendidos tanto por los humanos y por las máquinas. Es un paso previo a la codificación. Es un esquema básico del programa.
 
+## Algoritmo
+- En general es un conjunto de pasos para realizar una tarea. ej  lavarse los dientes, prepararse un cafe, ir a un lugar
+- Conjunto preescrito, sea en gráfico o palabras, de instrucciones o reglas BIEN DEFINIDAS(debe ser bien clara, no generar ninguna duda), ORDENADAS(pasos sucesivos) Y FINITAS(tienen un principio y un final), que permite realizar una tarea mediante pasos sucesivos.
+### Características
+- Precisión: reglas bien definidas
+- Finito: finito, principio y fin
+- Eficacia: reglas sencillas para ser realizadas y en tiempo de respuesta
+- Entrada: puede ser 0 o más entradas. Cantidad de datos de inicio (escrito en el algoritmo o generado por él) (Estado inicial o input)
+- Salida: puede ser 1 o más resultados o datos. (Resultado o output)
 
 
 ## Estilos de codificación o escritura
