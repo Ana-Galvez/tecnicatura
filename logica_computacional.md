@@ -58,4 +58,13 @@ V------------------F--------------F<br>
 F------------------V--------------F<br>
 F------------------F--------------F<br>
 
+### Disyunción (OR, ∨):
+- **Definición**: La proposición compuesta p∨q es verdadera si al menos una de las proposiciones p o q es verdadera.
+- Tabla de Verdad:
+
+p-----------------q-------------------p∨q<br>
+V-----------------V-------------------V<br>
+V-----------------F-------------------V<br>
+F-----------------V-------------------V<br>
+F-----------------F-------------------F<br>
 
