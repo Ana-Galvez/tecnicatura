@@ -38,3 +38,9 @@
 ### Clientes gráficos o programas para BBDD
 - son las aplicaciones que nos permiten realizar y manipular las BBDD, como sus tablas y datos.
 
+### Transacciones
+- son operaciones lógicas que se ejecutan como una única unida atómica de trabajo
+
+
+
+### Paradigma ACID
