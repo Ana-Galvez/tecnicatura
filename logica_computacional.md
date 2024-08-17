@@ -127,3 +127,43 @@ p⊕q-----------¬(p⊕q)
 V-----------------F
 F-----------------V
 
+## Tablas de Verdad
+### Construcción de una Tabla de Verdad:
+1. Identificar las Proposiciones Atómicas: Enumera todas las proposiciones atómicas involucradas.
+2. Enumerar las Combinaciones de Valores de Verdad: Lista todas las posibles combinaciones de valores de verdad para las proposiciones atómicas.
+3. Aplicar las Conectivas Lógicas: Calcula el valor de verdad de las proposiciones compuestas utilizando las
+conectivas lógicas.
+
+### Ejemplo de Tabla de Verdad:
+- Para la expresión (p∧q)→r:
+- Pasos:
+1. Identificar las proposiciones atómicas: p, q, r.
+2. Enumerar las combinaciones de valores de
+verdad.
+3. Aplicar la conectiva de conjunción a p y q, luego aplicar la implicación con r.
+
+1-  p, q, r <br>
+2- p------q----------r<br>
+   V------V----------V<br>
+   V------V----------F<br>
+   V------F----------V<br>
+   V------F----------F<br>
+   F------V----------V<br>
+   F------V----------F<br>
+   F------F----------V<br>
+   F------F----------F<br>
+
+3-1 p------q----------r------p∧q<br>
+   V------V----------V------V<br>
+   V------V----------F------V<br>
+   V------F----------V------F<br>
+   V------F----------F------F<br>
+   F------V----------V------F<br>
+   F------V----------F------F<br>
+   F------F----------V------F<br>
+   F------F----------F------F<br>
+3-2  p∧q----------r---------(p∧q)→r
+      V-----------V---------V
+      V-----------F---------F
+      F-----------V---------V
+      F-----------F---------V
