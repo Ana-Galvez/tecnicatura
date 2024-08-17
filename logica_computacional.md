@@ -46,3 +46,16 @@ programación y sistemas de verificación.
 2. p∨r: "El sol es una estrella o la Tierra es plana."
 3. ¬q: "No es cierto que el agua hierve a 100°C."
 
+## Conectivas Lógicas
+### Conjunción (AND, ∧):
+
+- **Definición**: La proposición compuesta p∧q es verdadera si y solo si ambas proposiciones p y q son verdaderas.
+- Tabla de Verdad:
+
+p------------------q--------------p∧q<br>
+V------------------V--------------V<br>
+V------------------F--------------F<br>
+F------------------V--------------F<br>
+F------------------F--------------F<br>
+
+
