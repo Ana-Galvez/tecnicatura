@@ -10,3 +10,9 @@
 - Garantizar la corrección del software: La lógica permite verificar y validar que el software se comporte de acuerdo con las especificaciones.
 - Resolver problemas complejos: Aplicar técnicas lógicas para resolver problemas complejos en áreas como inteligencia artificial, teoría de la computación y criptografía.
 
+## Conceptos Básicos de Lógica y su Importancia en la Computación
+- Proposición: Es una declaración que puede ser verdadera o falsa, pero no ambas cosas al mismo tiempo.
+- Operadores Lógicos: Son símbolos utilizados para conectar proposiciones y formar expresiones lógicas, como AND (∧), OR (∨), NOT (¬), entre otros.
+- Tablas de Verdad: Herramientas para determinar el valor de verdad de expresiones lógicas basadas en todas las combinaciones posibles de valores de entrada.
+- Álgebra Booleana: Rama del álgebra que utiliza variables binarias y operaciones lógicas para simplificar y analizar expresiones lógicas.
+
