@@ -167,3 +167,24 @@ verdad.
       V-----------F---------F
       F-----------V---------V
       F-----------F---------V
+
+## Valuaciones y Tautologías
+### Valuaciones:
+- **Definición**: Una valuación es una asignación específica de valores de verdad a todas las proposiciones atómicas en una expresión lógica.
+- **Ejemplo**: Para la proposición p∨¬q, las valuaciones  posibles podrían ser (V,F)(V, F), etc., dependiendo de los valores asignados a p y q.
+
+### Tautologías y Contradicciones:
+- **Tautología**: Una proposición lógica es una tautología si es verdadera para todas las posibles valuaciones de sus variables.
+- Ejemplo: p∨¬p es una tautología porque
+siempre es verdadera, independientemente del
+valor de p.
+- **Contradicción**: Una proposición lógica es una contradicción si es falsa para todas las posibles valuaciones de sus variables.
+- Ejemplo: p∧¬p es una contradicción porque
+nunca puede ser verdadera.
+
+### Cómo Determinar Tautologías y Contradicciones:
+1. **Construir la Tabla de Verdad**: Para una expresión lógica, construye una tabla de verdad completa.
+2. **Analizar los Resultados**:
+- Si todas las salidas son verdaderas, la proposición es una tautología.
+- Si todas las salidas son falsas, la proposición es una contradicción.
+- Si hay una mezcla de verdaderas y falsas, la proposición no es ni una tautología ni una contradicción.
