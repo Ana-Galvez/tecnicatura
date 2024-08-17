@@ -27,3 +27,8 @@
 1. Sistema de información de software
 2. Sistema de información de hardware
 
+### ¿Por qué usar BBDD y NO planillas de cálculos?
+- Redundancia: la falta de control del tipo de datos o datos repetidos
+- Estandarización: ingresar en un formato diferente el mismo tipo de dato ej fechas
+- Seguridad
+
