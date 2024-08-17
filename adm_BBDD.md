@@ -4,3 +4,8 @@
 ### Modelo relacional
 - se usan filas(datos/registros) y columnas(atributos/campos)
 
+### Datos
+- representación simbólica que por sí solo no tiene significado que representa un hecho o realidad
+
+### Información
+- son los datos ya procesados y ordenados que permiten tomar decisiones y entender su contexto. Es el significado de los datos

@@ -59,7 +59,7 @@
 
 
 ## Dato
-- valor o representación gráfica de algo concreto pero que por sí solo no significa nada. ej 18  18 qué?
+- valor o representación simbólica de algo concreto pero que por sí solo no significa nada. ej 18  18 qué?
 1. Datos simples: enteros(number, int), reales(decimales, float, double, decimal), cadena(string), lógico(true o false, bool, boolean). Son aquellos datos que ya no pueden reducirse más.
 2. Datos compuestos: son datos que dentro de estos pueden contener más datos, ya sean simples y/o compuestos. Array, objetos.
 
