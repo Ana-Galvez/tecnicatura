@@ -97,3 +97,12 @@ V---------------F-----------F<br>
 F---------------V-----------F<br>
 F---------------F-----------V<br>
 
+## Compuertas Lógicas Avanzadas
+### NAND (Negación de AND):
+- **Definición**: La proposición compuesta ¬(p∧q) es verdadera si al menos una de las proposiciones p o q es falsa.
+
+p∧q-----------¬(p∧q)<br>
+V--------------F<br>
+F--------------V<br>
+
+
