@@ -117,5 +117,12 @@ Complemento de A∪B
 2. (A∪B)∩C
 3. (A∩C)∩(B∪C)
 4. (A∩B)∪C
-
-
+----------------------------------------------------
+- U={a,b,c,d,e,f,g}
+- A={a,b,c,d}
+- B={a,c,e,g}
+- C={b,e,f,g}
+1. A<sup>c</sup> - B
+2. (A-C)<sup>c</sup>
+3. (B<sup>c</sup>∪C)<sup>c</sup>
+4. (A∪B)∩(C<sup>c</sup>-A<sup>c</sup>)
