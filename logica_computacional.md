@@ -68,3 +68,13 @@ V-----------------F-------------------V<br>
 F-----------------V-------------------V<br>
 F-----------------F-------------------F<br>
 
+### Negación (NOT, ¬):
+- **Definición**: La proposición compuesta ¬p es
+verdadera si p es falsa y viceversa.
+- Tabla de Verdad:
+
+p--------------¬p
+V--------------F
+F--------------V
+
+
