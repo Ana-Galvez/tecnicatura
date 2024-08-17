@@ -29,3 +29,20 @@ sistema de lógica proposicional que estudia el razonamiento deductivo y los sil
 conceptos lógicos se aplicaron en la creación de lenguajes de
 programación y sistemas de verificación.
 
+## Proposiciones
+- **Definición de Proposición**: Una proposición es una declaración que tiene un valor de verdad definido: es verdadera (V) o falsa (F). Las proposiciones son los bloques básicos de la lógica proposicional y se utilizan para construir expresiones más complejas.
+
+### Proposiciones Atómicas:
+- **Definición**: Son las proposiciones más simples que no se pueden descomponer en otras proposiciones más básicas. Cada proposición atómica representa una afirmación que puede ser verdadera o falsa.
+- Ejemplos:
+1. p: "El sol es una estrella."
+2. q: "El agua hierve a 100°C."
+3. r: "La Tierra es plana."
+
+### Proposiciones Compuestas:
+- **Definición**: Son proposiciones formadas combinando proposiciones atómicas mediante conectivas lógicas. La verdad de una proposición compuesta depende de la verdad de sus componentes.
+- Ejemplos:
+1. p∧q: "El sol es una estrella y el agua hierve a 100°C."
+2. p∨r: "El sol es una estrella o la Tierra es plana."
+3. ¬q: "No es cierto que el agua hierve a 100°C."
+
