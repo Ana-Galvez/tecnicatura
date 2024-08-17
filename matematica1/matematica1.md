@@ -5,7 +5,7 @@
 - Para los elementos letra minúscula a,b,g,h, ...
 ### Conjunto vacío
 - Es el conjunto que no posee elementos
-- Se representa como ∅
+- Se representa como ∅ o {}
 ### Pertenencia
 - si x es un elemento del conjunto A, entonces x pertenece a A, x ∈ A.
 - si x no es un elemento del conjunto A, entonces x no pertenece a A, x ∉ A.
@@ -18,10 +18,11 @@ el conjunto P posee como elementos a los números pares  P={pares}  P={x:x es pa
 práctica - A={1,2,3,4,5}   ==>  A={x ∈ N : x <= 5}
 B={...,−3,−2,−1,0,1,2,3,4,5}  ==>   B={x ∈ Z : x <= 5}
 C={−2,−1,0,1,2,3,4}   ==>  C={x ∈ Z : -2 <= x <= 4}
-### Diagrama de Venn
-- Representación gráfica de los conjuntos y sus elementos. El o los conjuntos se dibujan como un círculo u óvalo y sus elementos con un punto (.) y escribiendo el elemento.
 
-![Ejemplo diagrama de Venn](./diagrama-de-venn.png)
+### Diagrama de Venn
+- Representación gráfica de los conjuntos y sus elementos. El o los conjuntos se dibujan como un círculo u óvalo y sus elementos con un punto (.) y escribiendo el elemento. Los círculos u óvalos se superponen para ver si tienen una intersección.
+
+![Ejemplo esquema operaciones entre conjuntos](./operaciones-entre-conjuntos.png)
 ### Cardinal de un conjunto
 - Es la cantidad de elementos que posee un conjunto. Se denota con # ej V={a,e,i,o,u} ==>  #V=5
 L={x:x es letra del alfabeto} ==>  #L=27
