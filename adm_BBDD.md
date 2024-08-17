@@ -14,3 +14,11 @@
 1. DATOS DE USUARIOS: los que usan las app
 2. DATOS DE SISTEMA: los que utiliza para su gestión ej permiso de usuarios
 
+### BBDD organizada
+1. Ser versátil
+2. Rapidez
+3. Alta integridad: los menores errores posibles al modificar la BBDD cuando hay muchos usuarios tocando
+4. Alta seguridad y privacidad: no solo el robo de información, sino la destrucción física de los medios de almacenamiento
+5. Actualización y que sea mantenible
+6. Indepencia física y lógica de los datos: ya sea al cambiar de medio físico o por ejemplo agregar nuevos campos
+
