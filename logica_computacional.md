@@ -105,4 +105,11 @@ p∧q-----------¬(p∧q)<br>
 V--------------F<br>
 F--------------V<br>
 
+### NOR (Negación de OR):
+- **Definición**: La proposición compuesta ¬(p∨q) es verdadera solo cuando ambas proposiciones p y q son falsas
+
+p∨q------------¬(p∨q)<br>
+V---------------F<br>
+F---------------V<br>
+
 
