@@ -35,3 +35,6 @@
 ### Sistema gestor de base de datos (SGBD) (DataBase Managment System DBMS)
 - Es un sistema que permite crear, administrar y consultar la BBDD como también el manejo de las estructuras necesarias para almacenar la información.
 
+### Clientes gráficos o programas para BBDD
+- son las aplicaciones que nos permiten realizar y manipular las BBDD, como sus tablas y datos.
+
