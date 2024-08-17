@@ -32,3 +32,6 @@
 - Estandarización: ingresar en un formato diferente el mismo tipo de dato ej fechas
 - Seguridad
 
+### Sistema gestor de base de datos (SGBD) (DataBase Managment System DBMS)
+- Es un sistema que permite crear, administrar y consultar la BBDD como también el manejo de las estructuras necesarias para almacenar la información.
+
