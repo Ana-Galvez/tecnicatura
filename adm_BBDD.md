@@ -9,3 +9,8 @@
 
 ### Información
 - son los datos ya procesados y ordenados que permiten tomar decisiones y entender su contexto. Es el significado de los datos
+
+- en la BBDD se guarda 2 TIPOS DE INFORMACIÓN
+1. DATOS DE USUARIOS: los que usan las app
+2. DATOS DE SISTEMA: los que utiliza para su gestión ej permiso de usuarios
+
