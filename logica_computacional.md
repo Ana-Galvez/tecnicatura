@@ -112,4 +112,14 @@ p∨q------------¬(p∨q)<br>
 V---------------F<br>
 F---------------V<br>
 
+### XOR (Disyunción Exclusiva):
+- **Definición**: La proposición compuesta p⊕q es verdadera si exactamente una de las proposiciones p o q es verdadera.
+
+p-------------q-----------p⊕q
+V-------------V-----------F<br>
+V-------------F-----------V<br>
+F-------------V-----------V<br>
+F-------------F-----------F<br>
+
+
 
