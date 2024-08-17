@@ -22,3 +22,8 @@
 5. Actualización y que sea mantenible
 6. Indepencia física y lógica de los datos: ya sea al cambiar de medio físico o por ejemplo agregar nuevos campos
 
+### Sistema de información
+- colección de datos debidamente recopilados y estructurados que ayudan a administrar, recolectar, recuperar, procesar, almacenar y distribuir información relevante a la organización.
+1. Sistema de información de software
+2. Sistema de información de hardware
+
