@@ -73,8 +73,19 @@ F-----------------F-------------------F<br>
 verdadera si p es falsa y viceversa.
 - Tabla de Verdad:
 
-p--------------¬p
-V--------------F
-F--------------V
+p--------------¬p<br>
+V--------------F<br>
+F--------------V<br>
+
+### Implicación (→):
+- **Definición**: La proposición p→q es falsa solo cuando p es verdadera y q es falsa. En todos los demás casos, es verdadera.
+- Tabla de Verdad:
+
+p-----------------q----------------p→q<br>
+V-----------------V-----------------V<br>
+V-----------------F-----------------F<br>
+F-----------------V-----------------V<br>
+F-----------------F-----------------V<br>
+
 
 
