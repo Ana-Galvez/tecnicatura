@@ -121,5 +121,9 @@ V-------------F-----------V<br>
 F-------------V-----------V<br>
 F-------------F-----------F<br>
 
-
+### NXOR (Negación de XOR, Equivalencia Lógica):
+- **Definición**: La proposición compuesta ¬(p⊕q) es verdadera si p y q tienen el mismo valor de verdad.
+p⊕q-----------¬(p⊕q)
+V-----------------F
+F-----------------V
 
