@@ -41,6 +41,10 @@
 ### Transacciones
 - son operaciones lógicas que se ejecutan como una única unida atómica de trabajo
 
+### Paradigma ACID (A: atomicidad, C: consistencia, I(Isolation, Aislamiento), D: durabilidad)
+- Es la inicial de 4 propiedades para realizar transacciones de forma segura
+1. ATOMICIDAD: determina que cada transacción es "todo o nada", si una transacción falla, todas sus operaciones se anulan, inclusive las anteriores a la operación que tuvo el error, por lo que la BBDD no sufre cambios. En esta propiedad se encuentras también las fallas de energía eléctrica o caída del sistema
+2. CONSISTENCIA: los datos tienen que ser válidos
+3. AISLAMIENTO(Isolation): que cada transacción es independiente de la otra
+4. DURABILIDAD: es cuando ya se realizó una transacción al estar confirmada, si al instante sucede algo no esperado, esa transacción no debe sufrir cambios
 
-
-### Paradigma ACID
