@@ -101,3 +101,21 @@ ej conjunto A y conjunto B
 Complemento de A∪B
 
 ![Ejemplo operación complemento](./operacion-complemento-51.png)
+
+
+### Ejercicios 
+- A={ x : x ∈ Z, -3 < x >= -1 }
+- B={ x + 8 : x ∈ N, x < 5}
+- C={ x ∈ N, -6 <= x >= 6}
+- D={ (x+5)/2 : x ∈ N, x < 5}
+---------------------------------------------------
+
+- A={1,2,3,4,5,6}
+- B={2,4,6,8,10}
+- C={5,6,7,8,9}
+1. (B∩C)∪(A∩B)
+2. (A∪B)∩C
+3. (A∩C)∩(B∪C)
+4. (A∩B)∪C
+
+
