@@ -5,14 +5,27 @@
 ## Objetivo de la Lógica Computacional
 - El objetivo principal de la lógica computacional es proporcionar una base teórica y práctica para la resolución de problemas relacionados con el procesamiento de información y la toma de decisiones en sistemas computacionales
 
-- Desarrollar algoritmos efectivos: La lógica ayuda a formular y analizar algoritmos para garantizar su corrección y eficiencia.
-- Diseñar circuitos digitales: La lógica computacional es fundamental para el diseño de circuitos digitales y sistemas electrónicos.
-- Garantizar la corrección del software: La lógica permite verificar y validar que el software se comporte de acuerdo con las especificaciones.
-- Resolver problemas complejos: Aplicar técnicas lógicas para resolver problemas complejos en áreas como inteligencia artificial, teoría de la computación y criptografía.
+- **Desarrollar algoritmos efectivos**: La lógica ayuda a formular y analizar algoritmos para garantizar su corrección y eficiencia.
+- **Diseñar circuitos digitales**: La lógica computacional es fundamental para el diseño de circuitos digitales y sistemas electrónicos.
+- **Garantizar la corrección del software**: La lógica permite verificar y validar que el software se comporte de acuerdo con las especificaciones.
+- **Resolver problemas complejos**: Aplicar técnicas lógicas para resolver problemas complejos en áreas como inteligencia artificial, teoría de la computación y criptografía.
 
 ## Conceptos Básicos de Lógica y su Importancia en la Computación
-- Proposición: Es una declaración que puede ser verdadera o falsa, pero no ambas cosas al mismo tiempo.
-- Operadores Lógicos: Son símbolos utilizados para conectar proposiciones y formar expresiones lógicas, como AND (∧), OR (∨), NOT (¬), entre otros.
-- Tablas de Verdad: Herramientas para determinar el valor de verdad de expresiones lógicas basadas en todas las combinaciones posibles de valores de entrada.
-- Álgebra Booleana: Rama del álgebra que utiliza variables binarias y operaciones lógicas para simplificar y analizar expresiones lógicas.
+- **Proposición**: Es una declaración que puede ser verdadera o falsa, pero no ambas cosas al mismo tiempo.
+- **Operadores Lógicos**: Son símbolos utilizados para conectar proposiciones y formar expresiones lógicas, como AND (∧), OR (∨), NOT (¬), entre otros.
+- **Tablas de Verdad**: Herramientas para determinar el valor de verdad de expresiones lógicas basadas en todas las combinaciones posibles de valores de entrada.
+- **Álgebra Booleana**: Rama del álgebra que utiliza variables binarias y operaciones lógicas para simplificar y analizar expresiones lógicas.
+
+## Historia y Evolución
+### Orígenes de la Lógica:
+- **Lógica Aristotélica**: La lógica formal tiene sus raíces en la antigua Grecia con Aristóteles, quien desarrolló el
+sistema de lógica proposicional que estudia el razonamiento deductivo y los silogismos.
+- **Desarrollo en la Edad Media**: Durante la Edad Media, la lógica aristotélica se expandió y se integró con la filosofía escolástica, dando lugar a nuevas formas de análisis y argumentación.
+### Lógica en la Computación:
+- **Lógica Booleana**: A mediados del siglo XIX, George Boole formalizó el álgebra booleana, que se convirtió en una base fundamental para el diseño de circuitos digitales y la teoría de la computación.
+- **Computación Digital**: A principios del siglo XX, con el advenimiento de los primeros ordenadores electrónicos, la lógica booleana se aplicó para construir circuitos lógicos y sistemas de procesamiento digital.
+- **Teoría de la Computación**: En la década de 1930, Alan Turing y otros pioneros desarrollaron la teoría de la computación, introduciendo conceptos como las máquinas de Turing, que formalizaron la idea de algoritmos y computabilidad.
+- **Lenguajes de Programación y Lógica Formal**: A medida que los lenguajes de programación evolucionaron, la lógica formal se integró en el diseño de lenguajes y en la verificación de software. La lógica de predicados, la teoría de tipos y otros
+conceptos lógicos se aplicaron en la creación de lenguajes de
+programación y sistemas de verificación.
 
