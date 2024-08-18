@@ -225,3 +225,10 @@ nunca puede ser verdadera.
 ### Proposiciones compuestas
 - Están formadas por proposiciones atómicas y/o proposiciones compuestas unidas por conectivas lógicas. ej El avión se estrelló o realizó un aterrizaje
 
+### Indicadores
+- son palabras o frases que indican una conectiva
+- En conjunción: ",", y, tambièn, además, adicionalmente, en adición, incluso, inclusive, así mismo, de igual forma, del mismo modo, ahora, igualmente, sin embargo, no obstante, pero, pese, empero, aunque, aun así, a pesar de, tanto como, al igual que, por otra parte, más, no....ni...., aparte, por otro lado.
+- en disyunción inclusiva: o, tal vez.... tal vez...., o de pronto, aunque de pronto, puede.... o puede....., aunque puede.
+- en disyunción exclusiva: o bien
+- en negación: no, no es cierto que, no es verdad q, ni
+
