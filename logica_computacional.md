@@ -232,3 +232,15 @@ nunca puede ser verdadera.
 - en disyunción exclusiva: o bien
 - en negación: no, no es cierto que, no es verdad q, ni
 
+### Variables proposicionales
+- Son letras que se les asigna a cada proposición atómica ej  p, q, r
+
+### Pasar de lenguaje natural al lenguaje lógico
+- ej  El avión se estrelló o realizó un aterrizaje y se encuentra incomunicado
+1. ver conectores lógicos:  o    y
+2. separar las proposiciones y darle una letra
+  -  p= el avión se estrelló
+  - q= el avión realizó un aterrizaje
+  - r= el avión se encuentra incomunicado
+3. Realizar el diccionario(pasar a símbolos)
+  - p∨(q∧r)
