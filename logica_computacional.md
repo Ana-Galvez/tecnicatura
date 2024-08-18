@@ -58,7 +58,7 @@ V------------------F--------------F<br>
 F------------------V--------------F<br>
 F------------------F--------------F<br>
 
-### Disyunción (OR, ∨):
+### Disyunción o Disyunción inclusiva(OR, ∨):
 - **Definición**: La proposición compuesta p∨q es verdadera si al menos una de las proposiciones p o q es verdadera.
 - Tabla de Verdad:
 
@@ -77,7 +77,7 @@ p--------------¬p<br>
 V--------------F<br>
 F--------------V<br>
 
-### Implicación (→):
+### Implicación (→) se reemplaza como entonces:
 - **Definición**: La proposición p→q es falsa solo cuando p es verdadera y q es falsa. En todos los demás casos, es verdadera.
 - Tabla de Verdad:
 
@@ -127,6 +127,21 @@ p⊕q-----------¬(p⊕q)
 V-----------------F
 F-----------------V
 
+### Equivalencia lógica ≡
+- Es cuando se dicen 2 enunciados al revés y siguen siendo los mismos valores
+- ej 1. los perros ladran y los gatos maullan, es lo mismo que 2. los gatos maullan y los perros ladran
+p-------q-----p∧q------q∧p<br>
+V-------V------V-------V<br>
+V-------F------F-------F<br>
+F-------V------F-------F<br>
+F-------F------F-------F<br>
+
+### Propiedad doblemente Negativa  ¬(¬p)≡p
+- Significa que la negación de la negación de en enunciado es lógicamente equivalente al enunciado
+p------¬p-----¬(¬p)≡p
+V------F---------V
+F------V---------F
+
 ## Tablas de Verdad
 ### Construcción de una Tabla de Verdad:
 1. Identificar las Proposiciones Atómicas: Enumera todas las proposiciones atómicas involucradas.
@@ -173,7 +188,7 @@ verdad.
 - **Definición**: Una valuación es una asignación específica de valores de verdad a todas las proposiciones atómicas en una expresión lógica.
 - **Ejemplo**: Para la proposición p∨¬q, las valuaciones  posibles podrían ser (V,F)(V, F), etc., dependiendo de los valores asignados a p y q.
 
-### Tautologías y Contradicciones:
+### Tautologías, Contradicciones Y contingencias:
 - **Tautología**: Una proposición lógica es una tautología si es verdadera para todas las posibles valuaciones de sus variables.
 - Ejemplo: p∨¬p es una tautología porque
 siempre es verdadera, independientemente del
@@ -181,6 +196,7 @@ valor de p.
 - **Contradicción**: Una proposición lógica es una contradicción si es falsa para todas las posibles valuaciones de sus variables.
 - Ejemplo: p∧¬p es una contradicción porque
 nunca puede ser verdadera.
+- **Contingencia**: una proposición lógica es una contingencia cuando algunas de sus valuaciones dan verdadero y otras valuaciones dan falso.
 
 ### Cómo Determinar Tautologías y Contradicciones:
 1. **Construir la Tabla de Verdad**: Para una expresión lógica, construye una tabla de verdad completa.
@@ -188,3 +204,17 @@ nunca puede ser verdadera.
 - Si todas las salidas son verdaderas, la proposición es una tautología.
 - Si todas las salidas son falsas, la proposición es una contradicción.
 - Si hay una mezcla de verdaderas y falsas, la proposición no es ni una tautología ni una contradicción.
+
+### Información lógica
+- Aparte de preguntas, hay informaciónes que devuelven V o F, pero dependerá del momento, ej La Tierra gira alrededor del sol, V, pero hace 700 años hubiera sido F. La lógica analiza la realidad en un momento específico.
+
+### Lógica proposicional o lógica de orden cero
+- es la rama de la lógica matemática que estudia las propisiciones, los métodos de vincularlas por medio de los conectores lógicos, y las relaciones y propiedades que se derivan de dichos procedimientos.
+#### Proposición
+- es una entidad atómica de la lógica proposicional, que posee un valor de verdad (oración que da información sobre lo que podemos decir que es cierto o no). Se usa la función informativa del lenguaje (descriptiva o aseverativa). Debe tener sujeto, verbo y predicado y ser informativo
+#### Funciones del lenguaje
+1. Imperativa  vení ya   orden
+2. exclamativa viva la libertad  emoción o deseo
+3. interrogativa
+4. informativa  el trabajo es complicado   info que puede ser V o F
+- Solo la función  informativa corresponde a las proposiciones
