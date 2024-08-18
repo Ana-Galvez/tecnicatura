@@ -218,3 +218,10 @@ nunca puede ser verdadera.
 3. interrogativa
 4. informativa  el trabajo es complicado   info que puede ser V o F
 - Solo la función  informativa corresponde a las proposiciones
+
+### Proposiciones atómicas o simples
+- son las proposiciones que ya no se pueden dividir, o sea, que no llevan conectivas lógicas
+
+### Proposiciones compuestas
+- Están formadas por proposiciones atómicas y/o proposiciones compuestas unidas por conectivas lógicas. ej El avión se estrelló o realizó un aterrizaje
+
