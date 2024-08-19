@@ -90,8 +90,9 @@ V-----------------F-----------------F<br>
 F-----------------V-----------------V<br>
 F-----------------F-----------------V<br>
 
-### Bicondicional (↔):
-- **Definición**: La proposición p↔q es verdadera si p y q tienen el mismo valor de verdad, ya sea ambos verdaderos o ambos falsos.
+### Bicondicional (↔) p↔q:
+- **Definición**: La proposición p↔q es verdadera si p y q tienen el mismo valor de verdad, ya sea ambos verdaderos o ambos falsos. P vale si y solo si vale Q o P equivale lógicamente a Q.
+
 - Tabla de Verdad:
 
 p---------------q-----------p↔q<br>
