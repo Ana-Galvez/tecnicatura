@@ -52,3 +52,13 @@
 1. NIVEL INTERNO O FÍSICO: es el más bajo de todos los niveles. Describe como se almacenan los datos y como es el detalle de las estructuras de datos complejos. ej en que parte de memoria se guardan. Los programadores o administradores no pueden ingresar a este nivel
 2. NIVEL CONCEPTUAL O LÓGICO: describe que datos se guardan y sus relaciones y tipos
 3. NIVEL EXTERNO O DE VISTA: es el más alto y muestra solo una parte de la BBDD(lo que quiere ver el usuario y que por cuestiones de seguridad se debe ocultar) ej un cajero automático, cuando un cliente desea extraer dinero, el cajero solo va a entrar a la cuenta del cliente y no a todos los clientes del banco
+
+### Entidad
+- Objeto sobre el cual queremos registrar información. Dentro de la BBDD es una tabla. Cada columna tiene un tipo de dato definido.
+
+### Nivel de abstracción lógico o conceptual
+- describe que datos son almacenados y sus relaciones (estructura de diseño). Este nivel lo usan los adm de BBDD que deciden que información guardar.
+- Esta decisión consta de diferentes tareas:
+1. Definición de los datos: titulo de columna, tipo de datos y/o longitud y otras propiedades
+2. Relaciones entre datos.
+
