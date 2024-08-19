@@ -62,3 +62,10 @@
 1. Definición de los datos: titulo de columna, tipo de datos y/o longitud y otras propiedades
 2. Relaciones entre datos.
 
+### Modelos de datos
+- El modelado de datos es el proceso de creación de una representación visual o esquema que define los sistemas de recopilación y administración de la información de cualquier organización. No solo los datos, sino tambièn sus relaciones y los métodos que se usarán para almacenarlos y analizarlos.
+- Ventajas
+1. Reduce errores en el desarrollo de software
+2. Facilita la rapidez y eficacia en el diseño y creación de la BBDD
+3. Facilita la comunicación entre los ingenieros de datos y los diferentes departamentos.
+
