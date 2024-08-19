@@ -84,5 +84,18 @@
 3. Convertir atributos en columnas
 4. Modificar el modelo en función de las restricciones/requisitos físicos
 
+### Modelo de datos lógicos
+- describe los datos con el mayor detalle posible
+1. Se representan las entidades y sus relaciones
+2. Se especifican los atributos para cada entidad
+3. Clave principal y claves externas
+4. La normalización ocurre en este nivel
+- pasos
+1. claves primarias
+2. encontrar relaciones
+3. describir todos los atributos
+4. resolver las relaciones de muchos a muchos
+5. normalización
+
 
 
