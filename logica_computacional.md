@@ -251,4 +251,10 @@ nunca puede ser verdadera.
   2. La negación de un enunciado O es lógicamente equivalente al enunciado Y donde cada proposición atómica es negada
   ¬ (p∨q) ≡ ¬p ∧ ¬q
 
+  ### Leyes de equivalencias lógicas
+  1. Leyes conmutativas-------------- p∨q ≡ q∨p----------------------p∧q ≡ q∧p
+  2. Leyes asociativas--------------- (p∨q)∨r ≡ p∨(q∨r)--------------(p∧q)∧r ≡ p∧(q∧r)
+  3. Leyes distributivas------------- p∨(q∧r) ≡ (p∨q)∧(p∨r)----------p∧(q∨r) ≡ (p∧q)∨(p∧r)
+  4. Leyes de identidad-------------- p∨c≡p--------------------------p∧t≡p
+  5. Leyes de negación--------------- p∧¬p ≡ c-----------------------p∨¬p ≡ t
   
