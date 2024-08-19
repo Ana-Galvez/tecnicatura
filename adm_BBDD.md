@@ -69,3 +69,11 @@
 2. Facilita la rapidez y eficacia en el diseño y creación de la BBDD
 3. Facilita la comunicación entre los ingenieros de datos y los diferentes departamentos.
 
+### Modelos de datos conceptuales
+1. Incluye las entidades importantes y sus relaciones
+2. No se especifica ningún atributo
+3. No se especifica ninguna clave principal
+- Se trata de organizar y clasificar la información en componentes simples que representen la información del negocio
+
+
+
