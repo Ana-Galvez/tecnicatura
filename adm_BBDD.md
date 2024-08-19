@@ -75,5 +75,14 @@
 3. No se especifica ninguna clave principal
 - Se trata de organizar y clasificar la información en componentes simples que representen la información del negocio
 
+### Modelos de datos físicos
+1. Especifica todas las tablas y columnas (tipo, restricciones, PK, FK, relaciones)
+2. La desnormalización puede ocurrir según los requisitos de usuario
+- Pasos
+1. Convertir entidades en tablas
+2. Convertir relaciones en claves externas
+3. Convertir atributos en columnas
+4. Modificar el modelo en función de las restricciones/requisitos físicos
+
 
 
