@@ -257,4 +257,11 @@ nunca puede ser verdadera.
   3. Leyes distributivas------------- p∨(q∧r) ≡ (p∨q)∧(p∨r)----------p∧(q∨r) ≡ (p∧q)∨(p∧r)
   4. Leyes de identidad-------------- p∨c≡p--------------------------p∧t≡p
   5. Leyes de negación--------------- p∧¬p ≡ c-----------------------p∨¬p ≡ t
+  6. Doble negación------------------ ¬(¬p)≡p
+  7. De idempotencia----------------- p∨p≡p--------------------------p∧p≡p
+  8. Universales acotadas------------ p∧c≡c--------------------------p∨t≡t
+  9. De Morgan----------------------- ¬ (p∨q) ≡ ¬p ∧ ¬q-------------- ¬ (p∧q) ≡ ¬p ∨ ¬q
+  10. De absorción------------------- p∧(p∨q)≡p---------------------- p∨(p∧q)≡p
+  11. Negaciones t y c--------------- ¬c≡t--------------------------- ¬t≡c
+
   
