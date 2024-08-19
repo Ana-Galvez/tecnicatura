@@ -77,8 +77,11 @@ p--------------¬p<br>
 V--------------F<br>
 F--------------V<br>
 
-### Implicación (→) se reemplaza como entonces:
-- **Definición**: La proposición p→q es falsa solo cuando p es verdadera y q es falsa. En todos los demás casos, es verdadera.
+### Implicación o condicional (→) se reemplaza como entonces o SI p ENTONCES q:
+- **Definición**: La proposición p→q es falsa solo cuando p es verdadera y q es falsa. En todos los demás casos, es verdadera. Une 2 proposiciones atómicas llamadas antecedente y consecuente. Esto p→q  no es lo mismo que q→p
+- Indicadores: si...entonces...., solo si, es condición necesaria, es condición suficiente.
+- Un razonamiento no es una implicación, solo tiene forma similar. Una cosa es un proposición compuesta con una conectiva y otra un razonamiento.
+- El indicador srá de conclusión si se trata de un razonamiento. Y de una consecuencia de implicación si es proposición condicional
 - Tabla de Verdad:
 
 p-----------------q----------------p→q<br>
