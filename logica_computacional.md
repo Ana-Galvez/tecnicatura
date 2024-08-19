@@ -273,4 +273,8 @@ nunca puede ser verdadera.
   1. Premisas: son las proposiciones (atómicas o compuestas)
   2. Conclusión: es una proposición que si sus premisas son V, la conclusión será V
 
-  
+  ### Indicadores de conclusión:
+  - x lo tanto, en consecuencia, se concluye que, se deduce, es por ello que, por ende luego, entonces por lo cual
+  ### Indicadores de premisas
+   - dado que, ya que, esto es así porque, porque, esto se sigue de, en vista de que, pues
+
