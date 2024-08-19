@@ -264,4 +264,13 @@ nunca puede ser verdadera.
   10. De absorción------------------- p∧(p∨q)≡p---------------------- p∨(p∧q)≡p
   11. Negaciones t y c--------------- ¬c≡t--------------------------- ¬t≡c
 
+  ### Tipos de razonamientos
+  1. Razonamiento inductivo: se focaliza en la observación de los objetos de estudio, analizando sus características y comportamientos y realizando una comparación para llegar a una conclusión, pero sin poder probarlo.
+  - Por enumeración
+  - Por analogía
+  2. Razonamiento deductivo: se deduce a partir de una información dada. La conclusión se infiere necesariamente de las premisas. A partir de la información dada, se estructura para llegar a una conclusión, que será una nueva información. Quiere decir que si las premisas son V su conclusión será V.
+  -Partes
+  1. Premisas: son las proposiciones (atómicas o compuestas)
+  2. Conclusión: es una proposición que si sus premisas son V, la conclusión será V
+
   
