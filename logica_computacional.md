@@ -278,3 +278,12 @@ nunca puede ser verdadera.
   ### Indicadores de premisas
    - dado que, ya que, esto es así porque, porque, esto se sigue de, en vista de que, pues
 
+### Validez de un razonamiento
+- no es válido que las premisas sean V y la conclusión F
+- Para crear fórmulas, debemos armar su DICCIONARIO. ej  La Tierra es plana. La Tierra es redonda.
+- p= La Tierra es plana
+- q= La Tierra es redonda
+- PASAR A LENGUAJE PROPOSICIONAL
+- Premisa 1: p ∨ q
+- Premisa 2: ¬p
+- Conclusión: q
