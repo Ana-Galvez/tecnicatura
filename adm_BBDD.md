@@ -97,5 +97,17 @@
 4. resolver las relaciones de muchos a muchos
 5. normalización
 
+### Ventajas de modelar
+- Asegura que lo objetos se representen con precisiòn
+- Es muy detallado para construir una BBDD fisica
+- La info se puede usar para relación, claves primarias y externas y procediemtos almacenados.
+- Ayuda a las empresas con la comunicación
+- Permite documentar
+
+### Desventajas
+- Conocer características físicas de los datos almacenados
+- los cambios más pequeños realizados en la estructura requieren modificaciones en toda la aplicación
+- no hay lenguaje de manipulación de modelos establecido en DBMS
+
 
 
