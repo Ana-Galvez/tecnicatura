@@ -244,3 +244,11 @@ nunca puede ser verdadera.
   - r= el avión se encuentra incomunicado
 3. Realizar el diccionario(pasar a símbolos)
   - p∨(q∧r)
+
+  ### Leyes de Morgan p∧¬p∨≡
+  1. La negación  de un enunciado Y es lógicamente equivalente al enunciado O donde cada proposición atómica es negada
+  ¬ (p∧q) ≡ ¬p ∨ ¬q
+  2. La negación de un enunciado O es lógicamente equivalente al enunciado Y donde cada proposición atómica es negada
+  ¬ (p∨q) ≡ ¬p ∧ ¬q
+
+  
