@@ -301,3 +301,10 @@ nunca puede ser verdadera.
    2. Por comprensión: solo se nombra el nombre del conjunto ej Dominio: películas
 2. **Individuos**: es el elemento único e irrepetible ej Camila, pero saber quien es exactamente Camila (No todas las Camilas, sino La Camila). Si se repitiera, debería ser con apellido o dni. En cuanto a Números, ej 5 puede ser V  4+1  3+2
 3. **Propiedad**: es un adjetivo, una cualidad o atributo que se le aplica a un individuo que pertenece a un dominio. Ej  Rocinante es un caballo valiente. El individuo es Rocinante y la propiedad valiente, su dominio puede ser animales
+4. **Relaciones o cuantificadores**: expresión que indica cuantas veces un predicado es V al aplicarse a cada uno de los individuos del dominio.
+   1. Cuantificador universal ∀ (para todo): se usa para representar conjuntos que dan V a todos los casos.
+   - Diccionario: P(x) = x es una banda de rock popular
+   - Fórmula: ∀x.P(x)
+   - ∀x.P(x) = P(c1) ∧ P(c2) ∧ P(c3) ∧ ... ∧ P(cn−1) ∧ P(cn)
+   2. Cuantificador existencia ∃(existe): se usa pra afirmar que 1 o más individuos cumplen el predicado V.  ∃x.R(x). ∃x.R(x) = R(c1) ∨ R(c2) ∨ R(c3) ∨ ... ∨ R(cn−1) ∨ R(cn)
+   3. Cuantificador existencial negado ∄(no existe): se usa cuando ningún individuo cumple el predicado V, o sea, son todos F.  ∄x.R(x)  ∄x.R(x) = (¬R(c1)) ∧ (¬R(c2)) ∧ (¬R(c3)) ∧ (¬... ∧ (¬R(cn−1)) ∧ (¬R(cn)) equivale ∄x.P(x) = ∀x.¬P(x)
