@@ -300,3 +300,4 @@ nunca puede ser verdadera.
    1. Por extensión o enumeración: enumerando cada uno de los individuos
    2. Por comprensión: solo se nombra el nombre del conjunto ej Dominio: películas
 2. **Individuos**: es el elemento único e irrepetible ej Camila, pero saber quien es exactamente Camila (No todas las Camilas, sino La Camila). Si se repitiera, debería ser con apellido o dni. En cuanto a Números, ej 5 puede ser V  4+1  3+2
+3. **Propiedad**: es un adjetivo, una cualidad o atributo que se le aplica a un individuo que pertenece a un dominio. Ej  Rocinante es un caballo valiente. El individuo es Rocinante y la propiedad valiente, su dominio puede ser animales
