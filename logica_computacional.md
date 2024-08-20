@@ -291,3 +291,6 @@ nunca puede ser verdadera.
 - Premisa 1: p ∨ q
 - Premisa 2: ¬p
 - Conclusión: q
+
+### Lógica de predicados o lógica de orden uno o de primer orde
+- Lenguaje que formaliza oraciones sobre individuos, sus propiedades y como esos individuos se relacionan entre sí. Incluye a la lógica proposicional
