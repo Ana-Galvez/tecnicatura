@@ -294,3 +294,8 @@ nunca puede ser verdadera.
 
 ### Lógica de predicados o lógica de orden uno o de primer orde
 - Lenguaje que formaliza oraciones sobre individuos, sus propiedades y como esos individuos se relacionan entre sí. Incluye a la lógica proposicional
+- Para realizar el diccionario necesitamos conocer los 4 elementos principales:
+1. **El o los dominios**: es el conjunto de valores que puede tomar cada individuo al que queremos aplicar una propiedad o relación. Ej dentro del cine un dominio puede ser el dominio de las películas, series, empresas
+- Un dominio se define
+1. Por extensión o enumeración: enumerando cada uno de los individuos
+2. Por comprensión: solo se nombra el nombre del conjunto ej Dominio: películas
