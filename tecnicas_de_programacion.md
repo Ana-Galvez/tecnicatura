@@ -68,6 +68,12 @@
 
 ## Variable
 - Es un contenedor de datos o información que se le da un nombre y un tipo de dato, guardandose en la memoria mientras funciona el programa( memoria ram)
+- Según el tipo de dato se puede realizar diferentes operaciones
+1. Aritmética
+2. Lógicas
+  - operadores relacionales
+  - operadores lógicos
+3. Cadena de caracteres
 
 ### Cómo se declara una variable (como se la crea)
 - definir nombre_variable como tipo_de_dato  ej  Definir edad como Entero
