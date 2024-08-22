@@ -86,4 +86,8 @@ ej BIEN  Definir edad_mayor como Entero,   Definir nombre como Cadena,  Definir 
 ### Constante
 - Es un tipo de dato de variable donde su valor nunca va a cambiar (datos simples)
 
+### Metodología Top Down (modularización)
+- Divide y vencerás: de un gran problema, dividirlo en problemas
+- Mayor legibilidad
+- Mayor productividad: porque cada pequeño problema se le puede asignar a diferentes personas
 
