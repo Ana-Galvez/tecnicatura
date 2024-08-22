@@ -136,3 +136,7 @@ Complemento de A∪B
 4. Su primer elemento es el 1
 5. Conjunto discreto: entre 2 N dados, hay otros N entre ellos
 6. Al sumar 2 o más N su resultado es otro N, lo mismo para multiplicar
+### Números Enteros Z
+- se la puede representar en una recta
+1. Conjunto ordenado, infinito, discreto.
+2. No tiene primer Número
