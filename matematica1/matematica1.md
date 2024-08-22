@@ -126,3 +126,13 @@ Complemento de A∪B
 2. (A-C)<sup>c</sup>
 3. (B<sup>c</sup>∪C)<sup>c</sup>
 4. (A∪B)∩(C<sup>c</sup>-A<sup>c</sup>)
+
+## Conjuntos Numéricos
+### Números Naturales N
+- se la puede representar en una semirrecta
+1. Primer conjunto de Números usados
+2. Números enteros positivos: donde hacia la izquierda es un número menor y a la derecha un número mayor
+3. ordenado, inifinito, discreto
+4. Su primer elemento es el 1
+5. Conjunto discreto: entre 2 N dados, hay otros N entre ellos
+6. Al sumar 2 o más N su resultado es otro N, lo mismo para multiplicar
