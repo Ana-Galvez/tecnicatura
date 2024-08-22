@@ -151,3 +151,5 @@ Complemento de A∪B
 2. No puede representarse como fracciòn
 - pi  Euler   muchas raices cuadradras: ej de 2,3,5,7,11,83
 
+- Solo un número puede ser Q o I, nunca ambos pero siempre Real
+
