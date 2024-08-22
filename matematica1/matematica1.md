@@ -146,3 +146,8 @@ Complemento de A∪B
 2. Tiene decimal finito
 3. Entre 2 racionales hay otros Q  conjunto discreto o de orden denso
 4. En la recta se los pone con punto
+### Números Irracionales I
+1. Número que tienen infinitas cifras no periódicas(que no tienen el mismo patrón)
+2. No puede representarse como fracciòn
+- pi  Euler   muchas raices cuadradras: ej de 2,3,5,7,11,83
+
