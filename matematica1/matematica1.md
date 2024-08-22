@@ -153,3 +153,8 @@ Complemento de A∪B
 
 - Solo un número puede ser Q o I, nunca ambos pero siempre Real
 
+### Intervalos
+1. Intervalo Abierto: no incluye
+2. Intervalo cerrado: incluye
+3. Intervalo semicerrado: si hay () no incluye y si tiene [] incluye
+4. Los infinitos siempre van abierto
