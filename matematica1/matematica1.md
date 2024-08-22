@@ -140,3 +140,9 @@ Complemento de A∪B
 - se la puede representar en una recta
 1. Conjunto ordenado, infinito, discreto.
 2. No tiene primer Número
+### Números Racionales Q
+- División entre 2 naturales y surge la fracción
+1. Puede representarse como fracciòn o decimal o que es la división de la fracción.
+2. Tiene decimal finito
+3. Entre 2 racionales hay otros Q  conjunto discreto o de orden denso
+4. En la recta se los pone con punto
