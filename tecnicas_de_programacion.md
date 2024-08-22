@@ -76,9 +76,14 @@
 - Una variable no puede comenzar con muchos símbolos, excepto _(guión de abajo) ej _edad Bien pero medio raro, es para casos específicos de algún lenguaje de programación. OJO, HAY LENGUAJES DE PROGRAMACIÓN QUE PUEDEN ACEPTAR OTROS SIGNOS AL PRINCIPIO, ej javascript acepta $
 ej BIEN  Definir edad_mayor como Entero,   Definir nombre como Cadena,  Definir numero1 como Entero
 
-## Estilos de codificación o escritura
+### Estilos de codificación o escritura
 1. camelCase: diaDeLaSemana
 2. PascalCase: DiaDeLaSemana  o también llamado UpperCamelCase
 3. snake_case: dia_de_la_semana
 4. kebab-case: dia-de-la-semana
 5. Train-Case: Dia-De-La-Semana
+
+### Constante
+- Es un tipo de dato de variable donde su valor nunca va a cambiar (datos simples)
+
+
