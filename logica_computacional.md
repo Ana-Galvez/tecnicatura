@@ -316,5 +316,5 @@ nunca puede ser verdadera.
 
 ### Clasificación de predicados
 1. 0 variable = enunciado. Es cuando al predicado solamente usa constantes. Ej predicado Q(x):"x es queso"  c:"cheddar"  x=c  enunciado=  Q(c):"cheddar es queso"
-2. 1 variable = predicado. Es cuando el predicado usa una sola variable. Ej Q(x):"x es queso"
+2. 1 variable = propiedad. Es cuando el predicado usa una sola variable. Ej Q(x):"x es queso"
 3. 2 variables = relación. Es cuando el predicado usa 2 o más variables. Ej Q(x,y):"x come y"
