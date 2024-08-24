@@ -314,7 +314,7 @@ nunca puede ser verdadera.
 
 ### Modo o forma o regla "ponendo ponens"
 - significa afirmado-afirmo. Si el antecendente es verdadero, entonces el consecuente es verdadero p→q   1)p→q 2) p Resultado q
-### Modo o forma o regla "tollendo tollens
+### Modo o forma o regla "tollendo tollens"
 - significa falso-falso. Si el consecuente es falso, entonces el antecedente es falso, 1)p→q 2) ¬q Resultado ¬p
 
 ### Clasificación de predicados
