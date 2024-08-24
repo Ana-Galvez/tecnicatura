@@ -309,6 +309,9 @@ nunca puede ser verdadera.
    2. Cuantificador existencia ∃(existe): se usa pra afirmar que 1 o más individuos cumplen el predicado V.  ∃x.R(x). ∃x.R(x) = R(c1) ∨ R(c2) ∨ R(c3) ∨ ... ∨ R(cn−1) ∨ R(cn)
    3. Cuantificador existencial negado ∄(no existe): se usa cuando ningún individuo cumple el predicado V, o sea, son todos F.  ∄x.R(x)  ∄x.R(x) = (¬R(c1)) ∧ (¬R(c2)) ∧ (¬R(c3)) ∧ (¬... ∧ (¬R(cn−1)) ∧ (¬R(cn)) equivale ∄x.P(x) = ∀x.¬P(x)
 
-### Modo o forma o regla "ponendo pones"
-- significa afirmado-afirmo. Si el antecendente es verdadero, entonces el consecuente es verdadero
+### Modo o forma o regla "ponendo ponens"
+- significa afirmado-afirmo. Si el antecendente es verdadero, entonces el consecuente es verdadero p→q   1)p→q 2) p Resultado q
+### Modo o forma o regla "tollendo tollens
+- significa falso-falso. Si el consecuente es falso, entonces el antecedente es falso, 1)p→q 2) ¬q Resultado ¬p
 
+ 
