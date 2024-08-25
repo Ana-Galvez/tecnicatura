@@ -159,8 +159,16 @@ Complemento de A∪B
 3. Intervalo semicerrado: si hay () no incluye y si tiene [] incluye
 4. Los infinitos siempre van abierto
 
-### Relaciones
+## Relaciones
 - R es una relación de A en B, si y solo si R está incluida en el producto cartesiano (AxB)
 - A es conjunto de partida y B conjunto de llegada
 - El par (x,y)  se lo simboliza (x,y) pertenece a R
 - y=R(x)  o sea x e y están relacionados
+
+### Pares ordenados
+- (x,y) no es igual a (y,x)
+- primera coordenada o 1 componente, segunda coordenada o 2 componente
+
+### Producto cartesiano (AxB)
+- De 2 conjuntos A y B (AxB) es el conjunto de todos los pares ordenados (x,y), siendo que x pertenece a A e y pertenece a B
+- AxB={(x,y):x E A, y E B}
