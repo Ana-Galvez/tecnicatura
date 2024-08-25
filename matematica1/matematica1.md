@@ -158,3 +158,9 @@ Complemento de A∪B
 2. Intervalo cerrado: incluye
 3. Intervalo semicerrado: si hay () no incluye y si tiene [] incluye
 4. Los infinitos siempre van abierto
+
+### Relaciones
+- R es una relación de A en B, si y solo si R está incluida en el producto cartesiano (AxB)
+- A es conjunto de partida y B conjunto de llegada
+- El par (x,y)  se lo simboliza (x,y) pertenece a R
+- y=R(x)  o sea x e y están relacionados
