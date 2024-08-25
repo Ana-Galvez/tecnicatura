@@ -172,3 +172,7 @@ Complemento de A∪B
 ### Producto cartesiano (AxB)
 - De 2 conjuntos A y B (AxB) es el conjunto de todos los pares ordenados (x,y), siendo que x pertenece a A e y pertenece a B
 - AxB={(x,y):x E A, y E B}
+- Piso x Letra  3 pisos 4 letras
+- P x L= {(1,a),(1,b),(1,c),(1,d),(2,a),(2,b),(2,c),(2,d),(3,a),(3,b),(3,c)(3,d)}
+- cantidad de elementos #P=3 #L=4  #P x L=12
+
