@@ -181,3 +181,9 @@ Complemento de A∪B
 2. X comprensión
 3. Diagrama sagital
 4. Diagrama cartesiano
+
+### Dominio
+- Son los elementos del conjunto de partida que intervienen en una relación
+### Imagen o rango
+- Son los elementos del conjunto de llegada que intervienen en una relación
+
