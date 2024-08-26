@@ -202,4 +202,9 @@ Complemento de A∪B
 - codominio: elementos del conjunto de llegada
 - imagen, rango o conjunto imagen: elementos del conjunto de llegada que intervienen en una relación
 
-
+### Representación de funciones
+1. Verbal
+2. Simbólica
+3. Tabla de valores
+4. Diagrama sagital
+5. Gráfico
