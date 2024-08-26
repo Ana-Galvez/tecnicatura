@@ -187,3 +187,11 @@ Complemento de A∪B
 ### Imagen o rango
 - Son los elementos del conjunto de llegada que intervienen en una relación
 
+### Representación de las relaciones
+1. Verbal
+2. Simbólica
+3. Tabla de valores
+4. Gráfica
+5. Diagrama sagital
+
+
