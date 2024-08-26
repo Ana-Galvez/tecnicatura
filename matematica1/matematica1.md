@@ -198,5 +198,8 @@ Complemento de A∪B
 - es una relación entre 2 conjuntos, donde a todos y cada uno de los elementos de partida le corresponde solo un elemento de llegada
 - Existencia: es cuando todos los elementos de partida tienen una relación.
 - unicidad: es cuando cada elemento de partida tiene solo un elemento de llegada
+- dominio: elementos del conjunto de partida 
+- codominio: elementos del conjunto de llegada
+- imagen, rango o conjunto imagen: elementos del conjunto de llegada que intervienen en una relación
 
 
