@@ -176,3 +176,8 @@ Complemento de A∪B
 - P x L= {(1,a),(1,b),(1,c),(1,d),(2,a),(2,b),(2,c),(2,d),(3,a),(3,b),(3,c)(3,d)}
 - cantidad de elementos #P=3 #L=4  #P x L=12
 
+### Representación de los productos cartesianos
+1. X extensión
+2. X comprensión
+3. Diagrama sagital
+4. Diagrama cartesiano
