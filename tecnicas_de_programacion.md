@@ -110,5 +110,5 @@ ej BIEN  Definir edad_mayor como Entero,   Definir nombre como Cadena,  Definir 
 
 ### Tipos de estructuras
 1. Estructura de secuencia: es aquella en la que una instrucción sigue a otra, o sea, termina una y comienza otra.
-2. Estructura de decisión: es aquella en la que se debe tomar una decisión para que continue el programa. Se realiza una acciones dependiendo de las alternativas. Si Sino Si Sino.
+2. Estructura de decisión: es aquella en la que se debe tomar una decisión para que continue el programa. Se realiza una acciones dependiendo de las alternativas. Si Sino Si Sino. Segun variable Hacer, De otro modo
 
