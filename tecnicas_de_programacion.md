@@ -100,5 +100,13 @@ ej BIEN  Definir edad_mayor como Entero,   Definir nombre como Cadena,  Definir 
 ## Programa informático
 - Es una estructura formada por una secuencia de acciones (instrucciones) y que manipula un conjunto de objetos(datos o información)
 
+### Bloques de la estructura
+1. Bloque de declaraciones: donde se detallan los datos e información (variables, constantes, archivos, etc)
+2. Bloque de instrucciones: acciones que se llevan a cabo para conseguir los resultados esperados.
+- Esta dividido en 3 partes:
+1. Entrada de datos: instrucciones que almacenan en la memoria interna del programa los datos que vienen de afuera
+2. Proceso o algoritmo: intrucciones que modifican los datos o info o crea nuevos
+3. Salida de resultados: instrucciones que muestran los datos finales de la memoria interna
+
 
 
