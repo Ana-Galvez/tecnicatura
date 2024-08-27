@@ -97,3 +97,8 @@ ej BIEN  Definir edad_mayor como Entero,   Definir nombre como Cadena,  Definir 
 - Mayor legibilidad
 - Mayor productividad: porque cada pequeño problema se le puede asignar a diferentes personas
 
+## Programa informático
+- Es una estructura formada por una secuencia de acciones (instrucciones) y que manipula un conjunto de objetos(datos o información)
+
+
+
