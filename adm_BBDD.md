@@ -135,5 +135,14 @@
   1. Relación obligatoria: es cuando una entidad está sujeta a otra entidad, o sea es débil, ej estudiantes y cursos. Si es estudiante es porque está en un curso
   2. Relación optativa: cuando hay entidades qeu no tienen porqué estar sujetas a otra entidad, ej tutor y estudiante, no es necesario que todos los estudiantes tenga un tutor.
 
-  
+### Atributos
+- son las propiedades de las entidades y el dominio es el conjunto de valores que puede tener ese atributo
+#### Tipos de atributos
+1. Identificador único-clave: aquellos atributos que tienen clave primaria
+2. Atributos derivables: aquellos que resultan de operaciones con otros atributos. ej edad puede ser una operación de un atributo fecha de nacimiento - fecha actual
+3. Atributos Multivaluados: aquellos que se necesitan más de 1 dato. ej teléfono, capaz se quiere no solo 1. Conviene hacer 1 tabla aparte
+4. Atributos compuestos: aquellos que se podrían dividir en atributos más chicos porque casi todo su dominio es repetible. ej dirección se podría dividir en calle número ciudad provincia. Conviene hacer otra tabla
+5. Atributos discriminantes: aquellos que tienen clave estando en una entidad débil
+
+
 
