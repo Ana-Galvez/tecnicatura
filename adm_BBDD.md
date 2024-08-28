@@ -126,5 +126,14 @@
   2. grado 2 o binario: relación entre 2 entidades
   3. grado 3 o ternario: relación entre 3 entidades
   4. grado n: relación entre 4 o más entidades
+2. Conectividad
+- Se refiere a la cardinalidad, que son las limitaciones en una relación
+  1. Uno a uno: 1 a 1: ej presidente gobierna país, un solo presidente puede gobernar un solo país, un país solo puede ser gobernado por un presidente
+  2. uno a muchos: 1 a M o 1 a N: una persona tiene muchos autos, pero los autos solo tienen una persona
+  3. muchos a muchos: n a M o m a n: muchos profesores pueden enseñar muchas materias
+3. Condicionalidad o modalidad
+  1. Relación obligatoria: es cuando una entidad está sujeta a otra entidad, o sea es débil, ej estudiantes y cursos. Si es estudiante es porque está en un curso
+  2. Relación optativa: cuando hay entidades qeu no tienen porqué estar sujetas a otra entidad, ej tutor y estudiante, no es necesario que todos los estudiantes tenga un tutor.
 
+  
 
