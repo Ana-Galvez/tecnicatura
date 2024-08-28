@@ -109,5 +109,12 @@
 - los cambios más pequeños realizados en la estructura requieren modificaciones en toda la aplicación
 - no hay lenguaje de manipulación de modelos establecido en DBMS
 
+### Modelo Entidad-Relación
+- Es una herramienta para el modelo de datos que facilita la representación de entidades de una BBDD.
+- Gráficamente se lo expresa con un diagrama Entidad-Relación.
+- Tienen limitaciones semánticas, por eso se suele utilizar los Diagramas Entidad-Relación extendidas
+1. Integridad de Entidad: si una entidad tiene un atributo con clave primaria, nunca puede estar vacío
+2. Integridad Referencial (de relación): si una entidad tiene una clave foránea, su valor debe ser igual a alguna tupla(filas) de la otra entidad asociada
+
 
 
