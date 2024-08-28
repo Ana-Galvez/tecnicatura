@@ -118,5 +118,13 @@
 1. Entidad fuerte: son las que no dependen de otra entidad para existir, siempre tienen clave primaria
 2. Entidad débil: siempre dependen de otra entidad, siempre tienen clave foránea.
 
+### Relación
+- vínculo entre entidades
+#### Propiedades de una relación
+1. Grados
+  1. grado 1 o unario: relación sobre la misma entidad
+  2. grado 2 o binario: relación entre 2 entidades
+  3. grado 3 o ternario: relación entre 3 entidades
+  4. grado n: relación entre 4 o más entidades
 
 
