@@ -153,6 +153,9 @@
   2. Anomalías de borrado: borrar una tupla pensando que no sirve ningún campo o creyendo que los datos de los campos también están en otra tupla
   3. Anomalías de modificación: cuando se cambia el valor de un atributo en Gral. Habría que cambiar en todas las tuplas que anteriormente usaban el valor antiguo.
 
+  ### Normas de la normalización
+  - Son pasos que poseen la normalización que son secuencial a cada una se la llama forma normal, siendo de 1 a 5, aunque con las primeras 3 gralmente es suficiente. 1ºFN hasta 5ºFN.
+
   
   
 
