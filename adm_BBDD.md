@@ -113,6 +113,11 @@
 1. Integridad de Entidad: si una entidad tiene un atributo con clave primaria, nunca puede estar vacío
 2. Integridad Referencial (de relación): si una entidad tiene una clave foránea, su valor debe ser igual a alguna tupla(filas) de la otra entidad asociada
 
+### Pasos
+1. Entidad, atributos, PK
+2. Relaciones
+3. Cardinalidad
+
 ### Entidad
 - es un objeto del que se recoge información de interés para la BBDD
 1. Entidad fuerte: son las que no dependen de otra entidad para existir, siempre tienen clave primaria
