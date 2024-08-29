@@ -153,16 +153,23 @@
   2. Anomalías de borrado: borrar una tupla pensando que no sirve ningún campo o creyendo que los datos de los campos también están en otra tupla
   3. Anomalías de modificación: cuando se cambia el valor de un atributo en Gral. Habría que cambiar en todas las tuplas que anteriormente usaban el valor antiguo.
 
-  ### Normas de la normalización
+### Normas de la normalización
   - Son pasos que poseen la normalización que son secuencial a cada una se la llama forma normal, siendo de 1 a 5, aunque con las primeras 3 gralmente es suficiente. 1ºFN hasta 5ºFN.
 
-  ### Conceptos
+### Conceptos
   1. Dependencia funcional: atributos Y dependen funcionalmente de otro atributo X si a todo valor de X le corresponde siempre el mismo valor de las Y. Gralmente las X son las claves primarias y se la llaman determinantes y a las Y dependientes.
     1. Trivial: si el atributo es tanto determinante y al mismo tiempo dependiente, ej claves primarias
     2. No trivial: si el atributo solo es dependiente y NO determinante
   - Dependencia transitiva: cuando un atributo depende de otro atributo que es dependiente funcional de atributo X  
   2. Valor atómico: aquellos que ya no se pueden seguir dividiendo, o sea, no son multivalor.
 
-  
+### Pasos para lograr tener clave primaria
+  1. Superclase: conjuntos posibles de atributo Y atributos para ser PK
+  2. Claves Candidatas: filtrado de la superclase para achicar la cantidad de opciones
+    1. Claves Alternativas: aquellos atributos que fueron descartados como PK
+    2. Clave primaria elegida: puede ser
+      1. Clave simple: formada por un solo atributo de la entidad
+      2. Clave compuesta: formada por 2 o más atributos de la entidad
+
 
 
