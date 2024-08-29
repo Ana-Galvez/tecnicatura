@@ -144,5 +144,11 @@
 4. Atributos compuestos: aquellos que se podrían dividir en atributos más chicos porque casi todo su dominio es repetible. ej dirección se podría dividir en calle número ciudad provincia. Conviene hacer otra tabla
 5. Atributos discriminantes: aquellos que tienen clave estando en una entidad débil
 
+## Normalización
+-Es una metodología que permite que las tablas eviten:
+1. Redundancia de datos: datos repetidos y/o abundantes
+2. Pérdidas en la integridad de datos
+3. Anomalías de actualización:
+  
 
 
