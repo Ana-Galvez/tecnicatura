@@ -156,7 +156,13 @@
   ### Normas de la normalización
   - Son pasos que poseen la normalización que son secuencial a cada una se la llama forma normal, siendo de 1 a 5, aunque con las primeras 3 gralmente es suficiente. 1ºFN hasta 5ºFN.
 
-  
+  ### Conceptos
+  1. Dependencia funcional: atributos Y dependen funcionalmente de otro atributo X si a todo valor de X le corresponde siempre el mismo valor de las Y. Gralmente las X son las claves primarias y se la llaman determinantes y a las Y dependientes.
+    1. Trivial: si el atributo es tanto determinante y al mismo tiempo dependiente, ej claves primarias
+    2. No trivial: si el atributo solo es dependiente y NO determinante
+  - Dependencia transitiva: cuando un atributo depende de otro atributo que es dependiente funcional de atributo X  
+  2. Valor atómico: aquellos que ya no se pueden seguir dividiendo, o sea, no son multivalor.
+
   
 
 
