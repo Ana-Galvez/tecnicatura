@@ -149,6 +149,11 @@
 1. Redundancia de datos: datos repetidos y/o abundantes
 2. Pérdidas en la integridad de datos
 3. Anomalías de actualización:
+  1. Anomalías de inserción: es cuando se agrega una tupla(fila) donde hay un campo que se está escribiendo diferente comparado a otro campo que ya se escribió lo mismo, pero el campo de la nueva tupla se escribió diferente
+  2. Anomalías de borrado: borrar una tupla pensando que no sirve ningún campo o creyendo que los datos de los campos también están en otra tupla
+  3. Anomalías de modificación: cuando se cambia el valor de un atributo en Gral. Habría que cambiar en todas las tuplas que anteriormente usaban el valor antiguo.
+
+  
   
 
 
