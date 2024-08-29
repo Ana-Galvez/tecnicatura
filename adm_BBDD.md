@@ -176,5 +176,7 @@
       1. Clave simple: formada por un solo atributo de la entidad
       2. Clave compuesta: formada por 2 o más atributos de la entidad
 
-
-
+### Formas Normales
+1. 1ºFN: . Debe existir clave primaria  . Todas las tuplas deben tener valores atómicos
+2. 2ºFN: . estar en 1ºFN    . Los atributos Y deben depender funcionalmente, sino crear otras tablas (tener en cuenta si hay claves compuestas, deben depender de las 2 o más)
+3. 3ºFN: . estar en 2ºFN    . Los atributos Y que NO deben depender transitivamente de la clave primaria, sino crear otras tablas
