@@ -326,3 +326,8 @@ nunca puede ser verdadera.
 - son componentes electrónicos básicos de un sistema digital
 - en vez de V o F se usa 1 o 0 (señales de bits)
 - las combinaciones de señales de bits se pueden transformar en otras combinaciones de 0 y 1
+
+### Caja negra
+- muchos circuitos lógicos se piensan como una caja negra, tengiendo en su interior la implementación detallada del circuito que con frecuencia se ignora ( es el proceso que se realiza desde las señales de entrada hacia las señales de salida, pero este proceso no se ve)
+- se hace con tabla de entrada/salida con sus posibles señales de entrada/salida
+
