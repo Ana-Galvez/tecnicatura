@@ -341,3 +341,9 @@ nunca puede ser verdadera.
 6. XOR
 7. NXOR
 
+### Reglas para un circuito combinacional
+1. nunca combinar 2 cables de entrada
+2. un único cable de entrada se puede separar en 2 y usarlo como entrada para 2 puertas separadas
+3. 1 cable de salida se puede usar como entrada
+4. (NO SIEMPRE) la NO salida de una puerta puede alimentar de nuevo esa puerta
+
