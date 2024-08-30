@@ -331,3 +331,13 @@ nunca puede ser verdadera.
 - muchos circuitos lógicos se piensan como una caja negra, tengiendo en su interior la implementación detallada del circuito que con frecuencia se ignora ( es el proceso que se realiza desde las señales de entrada hacia las señales de salida, pero este proceso no se ve)
 - se hace con tabla de entrada/salida con sus posibles señales de entrada/salida
 
+### Puerta lógica
+- es un dispositivo que actúa como bloque de construcción para cirbuitos digitales
+1. NOT (inversor)
+2. AND
+3. OR
+4. NAND
+5. NOR
+6. XOR
+7. NXOR
+
