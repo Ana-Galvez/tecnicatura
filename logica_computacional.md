@@ -292,7 +292,7 @@ nunca puede ser verdadera.
 - Premisa 2: ¬p
 - Conclusión: q
 
-### Lógica de predicados o lógica de orden uno o de primer orde
+## Lógica de predicados o lógica de orden uno o de primer orde
 - Lenguaje que formaliza oraciones sobre individuos, sus propiedades y como esos individuos se relacionan entre sí. Incluye a la lógica proposicional
 - Para realizar el diccionario necesitamos conocer los 4 elementos principales:
 1. **El o los dominios**: es el conjunto de valores que puede tomar cada individuo al que queremos aplicar una propiedad o relación. Ej dentro del cine un dominio puede ser el dominio de las películas, series, empresas
@@ -321,3 +321,8 @@ nunca puede ser verdadera.
 1. 0 variable = enunciado. Es cuando al predicado solamente usa constantes. Ej predicado Q(x):"x es queso"  c:"cheddar"  x=c  enunciado=  Q(c):"cheddar es queso"
 2. 1 variable = propiedad. Es cuando el predicado usa una sola variable. Ej Q(x):"x es queso"
 3. 2 variables = relación. Es cuando el predicado usa 2 o más variables. Ej Q(x,y):"x come y"
+
+## Circuitos lógicos digitales
+- son componentes electrónicos básicos de un sistema digital
+- en vez de V o F se usa 1 o 0 (señales de bits)
+- las combinaciones de señales de bits se pueden transformar en otras combinaciones de 0 y 1
