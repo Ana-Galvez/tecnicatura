@@ -119,5 +119,7 @@ ej BIEN  Definir edad_mayor como Entero,   Definir nombre como Cadena,  Definir 
 - Mientras sea verdadero Hacer (MIENTRAS condición HACER)
 - Hacer al menor 1 vez y repetir Mientras se cumpla (HACER MIENTRAS)
 
-
+- PARA variabledentrodepara = inicio HASTA FIN CON PASO cantidad HACER FIN PARA
+- MIENTRAS variable condición HACER FIN MIENTRAS
+- REPETIR loquesequiera MIENTRAS QUE condición
 
