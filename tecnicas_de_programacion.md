@@ -113,5 +113,11 @@ ej BIEN  Definir edad_mayor como Entero,   Definir nombre como Cadena,  Definir 
 2. Estructura de decisión: es aquella en la que se debe tomar una decisión para que continue el programa. Se realiza una acciones dependiendo de las alternativas. Si Sino Si Sino. Segun variable Hacer, De otro modo
 3. Estructura de repetición, cíclica, iterativa o de bucles: permite ejecutar un conjunto de instrucciones de manera repetida mientras la expresión lógica sea verdadera
 
+### Tipos de estructura de repetición
+1. Ciclo exacto: Valor inicial-final, se repite el ciclo Para cada valor intermedio (PARA)
+2. Ciclos condicionales:
+- Mientras sea verdadero Hacer (MIENTRAS condición HACER)
+- Hacer al menor 1 vez y repetir Mientras se cumpla (HACER MIENTRAS)
+
 
 
