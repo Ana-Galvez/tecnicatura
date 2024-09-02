@@ -201,3 +201,17 @@
 - unaria
 - selleciona las columnas a mostrar
 - muestra tuplas sin duplicar
+
+3. unión U
+- binaria
+- selecciona una o varias columnas de diferentes tablas
+- conmutativa y asociativa
+- las columnas seleccionadas deben tener el mismo nombre en las diferentes tablas
+- elimina las tuplas duplicadas
+
+4. intersección
+- binaria
+- conmutativa y asociativa
+- columnas idénticas
+- selecciona todas las tuplas que tengan en común las relaciones
+
