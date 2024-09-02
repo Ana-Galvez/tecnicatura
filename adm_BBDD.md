@@ -192,4 +192,12 @@
 1. tradicionales: diferencia, unión, producto cartesiano, intersección
 2. relacionales especiales: selección, proyección, reunión, división
 
+1. selección    where
+- unaria
+- selecciona las tuplas(filas) según la condición
+- las columnas son la misma cantidad
 
+2. proyección   select
+- unaria
+- selleciona las columnas a mostrar
+- muestra tuplas sin duplicar
