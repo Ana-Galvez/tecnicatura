@@ -244,3 +244,8 @@
 10. división
 - binaria
 - atributos de la relación 2 en la cabecera de relación 1
+
+11. inserción
+12. borrado
+13. actualización
+
