@@ -215,3 +215,16 @@
 - columnas idénticas
 - selecciona todas las tuplas que tengan en común las relaciones
 
+5. diferencia  -
+- binaria
+- selecciona tuplas que están en la primera relación pero NO en la otra
+- no conmutativa
+- asociativa
+- columnas idènticas
+
+6. producto cartesiano X
+- binaria
+- conmutativa y asociativa
+- las cabeceras no tienen que ser iguales
+- usar sola no conviene
+
