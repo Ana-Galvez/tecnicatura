@@ -228,3 +228,11 @@
 - las cabeceras no tienen que ser iguales
 - usar sola no conviene
 
+7. renombramiento
+- cambio del nombre de relación o atributo
+
+8. producto cartesiano natural, reunión natura, join
+- binaria
+- atributo en común entre ambas relaciones
+- permite combinar ciertas selecciones y 1 producto cartesiano en una sola operación
+
