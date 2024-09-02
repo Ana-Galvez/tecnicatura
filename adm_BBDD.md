@@ -180,3 +180,6 @@
 1. 1ºFN: . Debe existir clave primaria  . Todas las tuplas deben tener valores atómicos
 2. 2ºFN: . estar en 1ºFN    . Los atributos Y deben depender funcionalmente, sino crear otras tablas (tener en cuenta si hay claves compuestas, deben depender de las 2 o más)
 3. 3ºFN: . estar en 2ºFN    . Los atributos Y que NO deben depender transitivamente de la clave primaria, sino crear otras tablas
+
+## Álgebra relacional
+- Es un lenguaje de consulta procedimental(donde el usuario da las órdenes para realidar). Consta de un conjunto de operaciones que toman como entrada 1 o 2 relaciones(tablas) y producen como resultado una nueva relación. Los operando como el resultado son relaciones (cierre relacional)
