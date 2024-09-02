@@ -183,3 +183,13 @@
 
 ## Álgebra relacional
 - Es un lenguaje de consulta procedimental(donde el usuario da las órdenes para realidar). Consta de un conjunto de operaciones que toman como entrada 1 o 2 relaciones(tablas) y producen como resultado una nueva relación. Los operando como el resultado son relaciones (cierre relacional)
+
+- Según cantidad de relaciones
+1. unarias: las que tienen 1 relación ej selección, proyección y renombramiento
+2. binarias: las que tienen 2 relaciones ej unión, diferencia, producto cartesiano
+
+- Según tipo de operador
+1. tradicionales: diferencia, unión, producto cartesiano, intersección
+2. relacionales especiales: selección, proyección, reunión, división
+
+
