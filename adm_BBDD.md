@@ -236,3 +236,11 @@
 - atributo en común entre ambas relaciones
 - permite combinar ciertas selecciones y 1 producto cartesiano en una sola operación
 
+9. reunión externa   outerjoin
+- left join   muestra las tuplas de la primera relación aunque no esté en la segunda
+- right join muestra las tuplas de la segunda relaciòn aunque no esté en la primera
+- full outer join
+
+10. división
+- binaria
+- atributos de la relación 2 en la cabecera de relación 1
