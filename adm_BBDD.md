@@ -260,3 +260,7 @@
 - SELECT, INSERT, UPDATE,DELETE
 3. DCL:
 - Define permisos de acceso a la BBDD como GRANT REVOKE
+
+### INNO DB
+- Mecanismo de almacenamiento de datos de código abierto para MySQL. Soporta ACID, bloqueo de registros e integridad referencial.
+
