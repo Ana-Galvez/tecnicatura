@@ -249,3 +249,14 @@
 12. borrado
 13. actualización
 
+## SQL
+- Lenguaje de alto nivel orientado a conjuntos de registro
+1. DDL:
+- Define, modifica y elimina esquemas de relaciones
+- Crea índices, define vistas y especifica restricciones de integridad. CREATE, ALTER, DROP
+2. DML:
+- Consulta, actualiza y elimina elementos creados con DDL, como tablas e índices
+- Basado en el álgebra relacional
+- SELECT, INSERT, UPDATE,DELETE
+3. DCL:
+- Define permisos de acceso a la BBDD como GRANT REVOKE
