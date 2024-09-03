@@ -264,3 +264,12 @@
 ### INNO DB
 - Mecanismo de almacenamiento de datos de código abierto para MySQL. Soporta ACID, bloqueo de registros e integridad referencial.
 
+### Integridad de datos
+- Restricciones, controles y validaciones para proteger la información de la BBDD
+- SQL tiene para lograr eso:
+1. Tipos de datos, NULL,NOT NULL    son de integridad de atributo
+2. DEFAULT de atributo
+3. Propiedades IDENTITY
+4. Validación con la propiedad CHECK de atributo
+5. Triggers(desencadenadores)
+6. Índices y claves    de claves
