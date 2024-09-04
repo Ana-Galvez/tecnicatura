@@ -347,3 +347,8 @@ nunca puede ser verdadera.
 3. 1 cable de salida se puede usar como entrada
 4. (NO SIEMPRE) la NO salida de una puerta puede alimentar de nuevo esa puerta
 
+### Circuitos lógicos digitales equivalentes
+- Si y solo si sus tablas de entrada/salida son idénticas y se puede sacar teniendo sus expresiones booleanas y leyes de equivalencia
+
+### Reconocedor
+- es un circuito que genera 1 en toda la tabla y todas las demás 0   
