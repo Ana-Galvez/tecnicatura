@@ -357,3 +357,9 @@ nunca puede ser verdadera.
 ### Álgebra de Boole
 - Se usa para modelar los circuitos electrónicos y proporciona la base para describir como funcionan las puertas lógicas
 
+### Leyes de De Morgan
+- Son fundamentales para la simplificación de expresiones lógicas y para la implementación física de estas en circuitos
+1. Simplificación de circuitos: las leyes permiten transformar expresiones lógicas de manera que se minimice el número de puertas lógicas necesarias para implementarlas, lo cual es crucial para optimización.
+2. Implementación práctica: ciertas combinaciones de puertas lógicas son más fáciles o eficientes de implementar que otras en hardware
+3. Reducción de costos y mejora de la eficiencia: al usar tanto la ley como el álgebra de Boole, se pueden reducir los costos de fabricación y mejorar la eficiencia energética
+
