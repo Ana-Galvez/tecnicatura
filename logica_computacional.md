@@ -363,3 +363,7 @@ nunca puede ser verdadera.
 2. Implementación práctica: ciertas combinaciones de puertas lógicas son más fáciles o eficientes de implementar que otras en hardware
 3. Reducción de costos y mejora de la eficiencia: al usar tanto la ley como el álgebra de Boole, se pueden reducir los costos de fabricación y mejorar la eficiencia energética
 
+### Teoremas
+1. Dualidad: toda igualdad lógica sigue siendo válida si se intercambian los operadores y y o y los elementos de identidad (0 y1)
+2. El álgebra es un conjunto cerrado, o sea, los resultados de aplicas las operaciones lógicas pertenecen al álgebra.
+3. En el álgebra se cumple que  a+1=1   a*0=0
