@@ -367,3 +367,4 @@ nunca puede ser verdadera.
 1. Dualidad: toda igualdad lógica sigue siendo válida si se intercambian los operadores y y o y los elementos de identidad (0 y1)
 2. El álgebra es un conjunto cerrado, o sea, los resultados de aplicas las operaciones lógicas pertenecen al álgebra.
 3. En el álgebra se cumple que  a+1=1   a*0=0
+4. Idempotencia, asociación, De Morgan, absorción, conmutativas, distributivas, condicional, negación condicional  no(a condicional)=a y no b, condicional contrarrecíproca (a condicional b)*(b condicional c)=a condicional c, doble negación
