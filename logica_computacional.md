@@ -368,3 +368,6 @@ nunca puede ser verdadera.
 2. El álgebra es un conjunto cerrado, o sea, los resultados de aplicas las operaciones lógicas pertenecen al álgebra.
 3. En el álgebra se cumple que  a+1=1   a*0=0
 4. Idempotencia, asociación, De Morgan, absorción, conmutativas, distributivas, condicional, negación condicional  no(a condicional)=a y no b, condicional contrarrecíproca (a condicional b)*(b condicional c)=a condicional c, doble negación
+
+- La suma booleana es el OR. La compuerta OR es el sumador booleano en el algebra de Boole
+- La multiplicación booleana es el AND con la compuerta AND
