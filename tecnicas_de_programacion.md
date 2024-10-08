@@ -150,3 +150,8 @@ ej BIEN  Definir edad_mayor como Entero,   Definir nombre como Cadena,  Definir 
 4. Variables y constantes
 5. Codificación
 
+## Prueba de escritorio
+- simulación del comportamiento de un algoritmo para determinar la validez del mismo
+- se detecta errores en tiempo de ejecución, de lógica para mejorar el algoritmo
+- se hace una tabla donde se ingresan las variables y mostrar los pasos que se muestran por pantalla.
+
