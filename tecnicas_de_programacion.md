@@ -137,3 +137,8 @@ ej BIEN  Definir edad_mayor como Entero,   Definir nombre como Cadena,  Definir 
 2. Sospechar de todos los resultados
 3. Considerar todas las situaciones
 
+## Tipos de errores
+1. Errores de compilación: suelen ser errores de sintaxis, entonces la computadora no puede comprender la instrucción
+2. Errores de ejecución: instrucciones que la computadora entiende pero no puede ejecutar. ej división por cero, raíces cuadradas de números negativos.
+3. Errores de lógica: son los más difíciles de detectar, el programa funciona y no tira errores pero el resultado no es el esperado
+
