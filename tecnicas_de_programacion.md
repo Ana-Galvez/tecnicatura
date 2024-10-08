@@ -160,3 +160,11 @@ ej BIEN  Definir edad_mayor como Entero,   Definir nombre como Cadena,  Definir 
 - al max se le da un valor pequeño
 - al min un valor grande
 
+## Arreglos
+- conjunto de variables del mismo tipo que pueden ser referenciadas a traves de un mismo nombre: Las variables se almacenan en posiciones contiguas de memoria.
+1. finita
+2. homogénea
+3. ordenada
+- vectores: arreglos unidimensionales
+- matrices : bidimensionales
+
