@@ -330,6 +330,7 @@ nunca puede ser verdadera.
 ### Caja negra
 - muchos circuitos lógicos se piensan como una caja negra, tengiendo en su interior la implementación detallada del circuito que con frecuencia se ignora ( es el proceso que se realiza desde las señales de entrada hacia las señales de salida, pero este proceso no se ve)
 - se hace con tabla de entrada/salida con sus posibles señales de entrada/salida
+- El diseño de circuitos electrónicos es el proceso de crear un sistema electrónico funcional que cumpla con ciertos requisitos y especificaciones.
 
 ### Puerta lógica
 - es un dispositivo que actúa como bloque de construcción para cirbuitos digitales
@@ -351,4 +352,22 @@ nunca puede ser verdadera.
 - Si y solo si sus tablas de entrada/salida son idénticas y se puede sacar teniendo sus expresiones booleanas y leyes de equivalencia
 
 ### Reconocedor
-- es un circuito que genera 1 en toda la tabla y todas las demás 0   
+- es un circuito que genera 1 en toda la tabla y todas las demás 0 
+
+### Álgebra de Boole
+- Se usa para modelar los circuitos electrónicos y proporciona la base para describir como funcionan las puertas lógicas
+
+### Leyes de De Morgan
+- Son fundamentales para la simplificación de expresiones lógicas y para la implementación física de estas en circuitos
+1. Simplificación de circuitos: las leyes permiten transformar expresiones lógicas de manera que se minimice el número de puertas lógicas necesarias para implementarlas, lo cual es crucial para optimización.
+2. Implementación práctica: ciertas combinaciones de puertas lógicas son más fáciles o eficientes de implementar que otras en hardware
+3. Reducción de costos y mejora de la eficiencia: al usar tanto la ley como el álgebra de Boole, se pueden reducir los costos de fabricación y mejorar la eficiencia energética
+
+### Teoremas
+1. Dualidad: toda igualdad lógica sigue siendo válida si se intercambian los operadores y y o y los elementos de identidad (0 y1)
+2. El álgebra es un conjunto cerrado, o sea, los resultados de aplicas las operaciones lógicas pertenecen al álgebra.
+3. En el álgebra se cumple que  a+1=1   a*0=0
+4. Idempotencia, asociación, De Morgan, absorción, conmutativas, distributivas, condicional, negación condicional  no(a condicional)=a y no b, condicional contrarrecíproca (a condicional b)*(b condicional c)=a condicional c, doble negación
+
+- La suma booleana es el OR. La compuerta OR es el sumador booleano en el algebra de Boole
+- La multiplicación booleana es el AND con la compuerta AND
