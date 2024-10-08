@@ -123,3 +123,8 @@ ej BIEN  Definir edad_mayor como Entero,   Definir nombre como Cadena,  Definir 
 - MIENTRAS variable condición HACER FIN MIENTRAS
 - REPETIR loquesequiera MIENTRAS QUE condición
 
+## Contadores
+- variable que cuenta.
+- contador=valor inicial
+- contador =contador + - Nº
+
