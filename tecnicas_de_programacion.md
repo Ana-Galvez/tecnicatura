@@ -155,3 +155,8 @@ ej BIEN  Definir edad_mayor como Entero,   Definir nombre como Cadena,  Definir 
 - se detecta errores en tiempo de ejecución, de lógica para mejorar el algoritmo
 - se hace una tabla donde se ingresan las variables y mostrar los pasos que se muestran por pantalla.
 
+## Max min
+- Dar a la variable un valor
+- al max se le da un valor pequeño
+- al min un valor grande
+
