@@ -131,3 +131,9 @@ ej BIEN  Definir edad_mayor como Entero,   Definir nombre como Cadena,  Definir 
 ## Acumuladores
 - Es como un contador pero el valor de incremento o decremento es un valor variable
 
+## Prueba y depuración
+- Permite identificar y eliminar errores (bugs)
+1. Mentalidad saboteadora
+2. Sospechar de todos los resultados
+3. Considerar todas las situaciones
+
