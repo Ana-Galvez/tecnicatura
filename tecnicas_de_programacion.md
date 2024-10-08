@@ -142,3 +142,11 @@ ej BIEN  Definir edad_mayor como Entero,   Definir nombre como Cadena,  Definir 
 2. Errores de ejecución: instrucciones que la computadora entiende pero no puede ejecutar. ej división por cero, raíces cuadradas de números negativos.
 3. Errores de lógica: son los más difíciles de detectar, el programa funciona y no tira errores pero el resultado no es el esperado
 
+## Documentación
+- externa e interna
+1. Descripción del problema
+2. Nombre del autor
+3. Diagrama y/o pseudo
+4. Variables y constantes
+5. Codificación
+
