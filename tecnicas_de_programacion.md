@@ -128,3 +128,6 @@ ej BIEN  Definir edad_mayor como Entero,   Definir nombre como Cadena,  Definir 
 - contador=valor inicial
 - contador =contador + - Nº
 
+## Acumuladores
+- Es como un contador pero el valor de incremento o decremento es un valor variable
+
