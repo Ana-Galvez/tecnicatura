@@ -273,3 +273,7 @@
 4. Validación con la propiedad CHECK de atributo
 5. Triggers(desencadenadores)
 6. Índices y claves    de claves
+
+### Sentencias DDL: sentencias de definición de datos
+- Data definition language
+- crear datos y tablas
