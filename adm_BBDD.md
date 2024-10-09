@@ -289,3 +289,6 @@
 #### inner join
 - es la intersección entre ambas tablas
 
+#### left outer join
+- es la intersección más lo que tiene la tabla de la izquierda
+
