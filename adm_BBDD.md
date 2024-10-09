@@ -291,6 +291,8 @@
 
 #### left outer join
 - es la intersección más lo que tiene la tabla de la izquierda
+- con exclusión:  A - B  where B.  is null
 
 #### right outer join 
 - es la intersección más lo que tiene la tabla de la izquierda
+- - con exclusión:  B - A  where A.  is null
