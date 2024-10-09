@@ -296,3 +296,7 @@
 #### right outer join 
 - es la intersección más lo que tiene la tabla de la izquierda
 - - con exclusión:  B - A  where A.  is null
+
+#### Union
+- junta todos los datos en un misma columna, las columnas del select deben tener el mismo nombre y tipo, sino se agregarán más filas
+- select nombre,apellido from cliente union select nombre,apellido from vendedor
