@@ -282,3 +282,7 @@
 - es una instrucciòn select from where dentro de otra consulta
 - Primero se ejecuta la subconsulta y luego la consulta principal
 
+### join
+- permite asociar 2 o más tablas
+- Teoría de conjunto: rama de la matemática que estudia la colección de objetos, analizando las propiedades y las relaciones entre los elementos del conjunto
+
