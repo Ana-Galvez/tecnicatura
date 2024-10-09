@@ -277,3 +277,8 @@
 ### Sentencias DDL: sentencias de definición de datos
 - Data definition language
 - crear datos y tablas
+
+### Subconsultas
+- es una instrucciòn select from where dentro de otra consulta
+- Primero se ejecuta la subconsulta y luego la consulta principal
+
