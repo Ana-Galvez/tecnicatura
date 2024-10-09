@@ -292,3 +292,5 @@
 #### left outer join
 - es la intersección más lo que tiene la tabla de la izquierda
 
+#### right outer join 
+- es la intersección más lo que tiene la tabla de la izquierda
