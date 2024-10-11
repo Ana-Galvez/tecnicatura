@@ -371,3 +371,17 @@ nunca puede ser verdadera.
 
 - La suma booleana es el OR. La compuerta OR es el sumador booleano en el algebra de Boole
 - La multiplicación booleana es el AND con la compuerta AND
+- A + 0 = A
+- A + 1 = 1
+- A + A = A
+- A + A NEGADO= 1
+- A + AB = A
+- A + ANEGADO B= A + B
+- A * 0 = 0
+- A * 1 = A
+- A * A =A
+- A * ANEGADO=0
+- NEGADO(NEGADO A)=A
+- (A+B)*(A+C)=A+(B*C)
+
+
