@@ -384,4 +384,9 @@ nunca puede ser verdadera.
 - NEGADO(NEGADO A)=A
 - (A+B)*(A+C)=A+(B*C)
 
+- Una expresión booleana simplificada expresa el menor número posible de puertas en la implementación de una determinada expresión
+- Pueden convertirse en cualquiera de las 2 formas estandar:
+1. suma de productos sop
+2. producto de sumas pos
+
 
