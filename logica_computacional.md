@@ -389,4 +389,5 @@ nunca puede ser verdadera.
 1. suma de productos sop
 2. producto de sumas pos
 
-
+### Mapas de Karnaugh
+- Método sistemático de expresiones booleanas y si se usa bien genera las expresiones de sumas de productos y producto de sumas.
