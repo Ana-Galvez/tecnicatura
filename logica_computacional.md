@@ -391,3 +391,4 @@ nunca puede ser verdadera.
 
 ### Mapas de Karnaugh
 - Método sistemático de expresiones booleanas y si se usa bien genera las expresiones de sumas de productos y producto de sumas.
+- Es parecida a la tabla de verdad, pero en lugar de filas y columnas, es una matriz de celdas donde va cada valor binario de la variable. Se usa de 2 a 5 variables.
