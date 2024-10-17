@@ -399,3 +399,9 @@ nunca puede ser verdadera.
 - 2b10 = 2 en base 10
 - BSS= binario sin signo
 
+### binario a decimal
+- ej 110101 b2= 1.2 a la 5 + 1.2 a la 4 + 0.2 a la 3 + 1.2 a la 2 + 0.2 a la 1 + 1.2 a la 0 = 53 b10
+
+### decimal a binario
+- se divide el número decimal por 2 y se sigue dividiendo por 2 hasta que el resultado sea 0, se toman desde el último resto (módulo) que siempre va a ser 0 o 1. Se toman todos los restos y estos van a ser el resultado
+![Decimal a binario](/Escritorio/decimal.jpg)
