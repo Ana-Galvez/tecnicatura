@@ -404,8 +404,10 @@ nunca puede ser verdadera.
 
 ### decimal a binario
 - se divide el número decimal por 2 y se sigue dividiendo por 2 hasta que el resultado sea 0, se toman desde el último resto (módulo) que siempre va a ser 0 o 1. Se toman todos los restos y estos van a ser el resultado
-![Decimal a binario](/Escritorio/decimal.jpg)
+![Decimal a binario](decimal.jpg)
 
 ### Rango del sistema binario
 - Es un sistema restringido porque en sistemas de cómputos hay una cantidad limitada de bits
 
+### suma binaria
+### resta binaria
