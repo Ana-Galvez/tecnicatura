@@ -410,4 +410,7 @@ nunca puede ser verdadera.
 - Es un sistema restringido porque en sistemas de cómputos hay una cantidad limitada de bits
 
 ### suma binaria
+![Suma binaria](Suma-binarios.jpg)
+
 ### resta binaria
+![Resta binaria](resta-binaria.jpg)
