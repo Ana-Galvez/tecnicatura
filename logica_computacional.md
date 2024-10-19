@@ -448,3 +448,7 @@ nunca puede ser verdadera.
 -  29         2          9
 -            1000       1001  =  10001001
 
+### Binario a hexa
+- 11110111  = se separa cada 4
+- 1111  F     0111  7   = F7
+
