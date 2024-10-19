@@ -436,3 +436,11 @@ nunca puede ser verdadera.
 - 14        E            1110
 - 15        F            1111
 
+### hexa a decimal
+- 9          A b16 = 154 b10
+- 9         10 
+- 16a la 1  16 a la 0
+-    16       1
+-  X  9     X 10
+-   144  +    10   = 154
+
