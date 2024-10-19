@@ -444,3 +444,7 @@ nunca puede ser verdadera.
 -  X  9     X 10
 -   144  +    10   = 154
 
+### hexa a binario
+-  29         2          9
+-            1000       1001  =  10001001
+
