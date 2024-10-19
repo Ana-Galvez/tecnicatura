@@ -452,3 +452,10 @@ nunca puede ser verdadera.
 - 11110111  = se separa cada 4
 - 1111  F     0111  7   = F7
 
+### Decimal a hexa
+- 699
+- 699 / 16=  43 resto 11 (a hexa es B)
+- 43 / 16= 2 resto 11 (a hexa es B)
+- 2 / 16 = 0 resto 2 = 2
+- 699 = 2BB
+
