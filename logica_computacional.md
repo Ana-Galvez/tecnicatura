@@ -459,3 +459,9 @@ nunca puede ser verdadera.
 - 2 / 16 = 0 resto 2 = 2
 - 699 = 2BB
 
+## Rangos
+- BSS(5) = [0,31] 0 a (2 elevado a la 5)-1
+- BSS(8) = [0,255]
+- BSS(16) = [0,65535]
+- BSS(32) =[0,4264967395]
+
