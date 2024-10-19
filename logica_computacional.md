@@ -414,3 +414,7 @@ nunca puede ser verdadera.
 
 ### resta binaria
 ![Resta binaria](resta-binaria.jpg)
+
+## Sistema Hexadecimal 16 base 16
+- es más fácil convertir hexa y binaria que binaria y decimal
+
