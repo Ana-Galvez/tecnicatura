@@ -465,3 +465,6 @@ nunca puede ser verdadera.
 - BSS(16) = [0,65535]
 - BSS(32) =[0,4264967395]
 
+## Saber cantidad minima de bits para representar rango en sistema binario
+- 0 a 15 = Nº >= log a la 2(15+1)=Nº >= log a la 2(16)=Nº >= 4
+
