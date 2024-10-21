@@ -175,3 +175,7 @@ ej BIEN  Definir edad_mayor como Entero,   Definir nombre como Cadena,  Definir 
 - Procesamiento de reorganizar un conjunto dado de objetos en una secuencia determinada
 - x máximos sucesivos: no es el más efectivo porque realiza muchos recorridos del arreglo y muchas comparaciones, por lo tanto, es mucho tiempo de procesamiento
 - Se intercambian los valores según ascendente o descendente.
+
+## Matrices
+- Tabla de doble entrada. Primera dimensión es filas, segunda es columna
+
