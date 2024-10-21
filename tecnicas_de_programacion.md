@@ -168,3 +168,6 @@ ej BIEN  Definir edad_mayor como Entero,   Definir nombre como Cadena,  Definir 
 - vectores: arreglos unidimensionales
 - matrices : bidimensionales
 
+- Definir nomArreglo como tipo
+- Dimension nomArreglo[cant]
+
