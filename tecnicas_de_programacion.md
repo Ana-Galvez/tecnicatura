@@ -179,3 +179,12 @@ ej BIEN  Definir edad_mayor como Entero,   Definir nombre como Cadena,  Definir 
 ## Matrices
 - Tabla de doble entrada. Primera dimensión es filas, segunda es columna
 
+## Modularización
+- La programación modular cosiste en definir módulos, usando abstracción de procedimientos. Se puede separar el que hace el módulo del cómo lo hace
+- La abstracción reduce algunos aspectos irrelevantes, concepto o proceso para enfocarse en los aspectos más importantes y generales
+1. Reutilización de código en el mismo programa u otros
+2. los programas se vuelven flexibles y transportables
+3. divide un gran problema en problemas pequeños y se puede testear y depurar con mayor facilidad y a la vez un código limpio y fácil de entender
+4. Permite crear programas extensibles, o sea, programas que se pueden ampliar crando nuevos módulos
+5. Permite que varios programadores puedan trabajar en el programa enfocandose en 1 o más modulos
+
