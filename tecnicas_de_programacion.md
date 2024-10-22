@@ -198,3 +198,5 @@ ej BIEN  Definir edad_mayor como Entero,   Definir nombre como Cadena,  Definir 
 - El proceso puede ser entrada, salida, manipulación de datos, contros de otros módulos o combinaciones
 - Los resultados de un módulo pueden ser usados por otro módulo
 
+### Método
+- Es un bloque  de código que contiene instrucciones donde se especifica los nombres y tipos de datos con los parámetros necesarios. Los argumentos deben coincidir con la cantidad de parámetros y su tipo, pero nombre no es necesario que coincida.
