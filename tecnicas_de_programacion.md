@@ -188,3 +188,13 @@ ej BIEN  Definir edad_mayor como Entero,   Definir nombre como Cadena,  Definir 
 4. Permite crear programas extensibles, o sea, programas que se pueden ampliar crando nuevos módulos
 5. Permite que varios programadores puedan trabajar en el programa enfocandose en 1 o más modulos
 
+### Módulo
+- Se escribe en verbos en infinitivo
+- Cumple una función específica y en algunos casos comparte info con otras funciones(interfaz)
+- El programa es también un módulo, llamado programa o módulo principal
+- El módulo principal se encarga de controlar todo lo que sucede y es el encargado de transferir el control a los otros módulos, al terminar ellos, devuelven el control al módulo que los invocó
+- Cada módulo debe ralizar algo específico y se pueden seguir modularizando
+- Cada módulo es independiente de los otros
+- El proceso puede ser entrada, salida, manipulación de datos, contros de otros módulos o combinaciones
+- Los resultados de un módulo pueden ser usados por otro módulo
+
