@@ -468,3 +468,10 @@ nunca puede ser verdadera.
 ## Saber cantidad minima de bits para representar rango en sistema binario
 - 0 a 15 = Nº >= log a la 2(15+1)=Nº >= log a la 2(16)=Nº >= 4
 
+## Signo Magnitud
+- El bit de la izquierda es el bit de signo 1 = -   0= +
+- Los otros bits se llaman magnitud y su valor se determina en BSS (bits sin signo)
+- Este sistema se llama signo magnitud (SM)
+- ej 1010   el primer 1 es -   entonces 010  IBSS(010)= 0-(2)elevado al cuadrado + 1*(2) elevado a la 1 + 0*(2)elevado a la cero = 2
+-                                            I sm(4)(1010)= -1 x IBSS(010)= -1 * 2 = -2
+
