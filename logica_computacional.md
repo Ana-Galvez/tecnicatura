@@ -485,3 +485,6 @@ nunca puede ser verdadera.
 - ej 1101 + 0001     1101 en sistema decimal 5    0001  sistema decimal 1 = entonces el mayor es 1101
 - 101-001= 100   en SM=1100
 
+### Resta binaria con signo + y -
+- C1-C2= C1+(-C2)
+- ej 1101-1001= 1101 - 0001, luego ver el mayor magnitud,  1101  5   0001  1 o sea 1, luego sumar   101+001=110   SM 1110
