@@ -481,4 +481,7 @@ nunca puede ser verdadera.
 ### Suma binaria con signo + y -
 1. Signos iguales, se suman las magnitudes
 - ej  1101 + 1001 (los primeros son 1)   101+001 = 110  en SM= 1110
+2. Signos diferentes: ver que cadena tiene la mayor magnitud, luego resta
+- ej 1101 + 0001     1101 en sistema decimal 5    0001  sistema decimal 1 = entonces el mayor es 1101
+- 101-001= 100   en SM=1100
 
