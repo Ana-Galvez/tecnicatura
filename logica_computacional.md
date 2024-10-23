@@ -475,3 +475,6 @@ nunca puede ser verdadera.
 - ej 1010   el primer 1 es -   entonces 010  IBSS(010)= 0-(2)elevado al cuadrado + 1*(2) elevado a la 1 + 0*(2)elevado a la cero = 2
 -                                            I sm(4)(1010)= -1 x IBSS(010)= -1 * 2 = -2
 
+### Rango SM
+- ej (-(2 a la (1-1))hasta(2 a la (1-1)-1)) = (-8,7)
+
