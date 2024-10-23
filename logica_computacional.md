@@ -478,3 +478,7 @@ nunca puede ser verdadera.
 ### Rango SM
 - ej (-(2 a la (1-1))hasta(2 a la (1-1)-1)) = (-8,7)
 
+### Suma binaria con signo + y -
+1. Signos iguales, se suman las magnitudes
+- ej  1101 + 1001 (los primeros son 1)   101+001 = 110  en SM= 1110
+
