@@ -488,3 +488,8 @@ nunca puede ser verdadera.
 ### Resta binaria con signo + y -
 - C1-C2= C1+(-C2)
 - ej 1101-1001= 1101 - 0001, luego ver el mayor magnitud,  1101  5   0001  1 o sea 1, luego sumar   101+001=110   SM 1110
+
+## Complemento a1 (Ca1)
+- El complemento a1 de un número binario es la secuencia de bits que se obtiene al invertir todos los bits de ese número ej 1010 = 0101
+- Se utiliza para representar el valor - de un número positivo, permitiendo ver el rango - y +
+- También se usa en suma y resta, proceso de datos y tramisión de info.
