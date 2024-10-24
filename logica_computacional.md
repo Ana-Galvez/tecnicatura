@@ -499,3 +499,8 @@ nunca puede ser verdadera.
 - Eficienci en operaciones aritméticas
 - Facilidad de implementación de hardware
 
+### Desventajas
+- Dificultad en la comprensión
+- Representación de números decimales
+- Dificultad en la realización de operaciones de comparación
+
