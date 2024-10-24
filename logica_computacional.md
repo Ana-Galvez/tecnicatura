@@ -493,3 +493,9 @@ nunca puede ser verdadera.
 - El complemento a1 de un número binario es la secuencia de bits que se obtiene al invertir todos los bits de ese número ej 1010 = 0101
 - Se utiliza para representar el valor - de un número positivo, permitiendo ver el rango - y +
 - También se usa en suma y resta, proceso de datos y tramisión de info.
+
+### Ventajas
+- representación del número -
+- Eficienci en operaciones aritméticas
+- Facilidad de implementación de hardware
+
