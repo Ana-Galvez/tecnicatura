@@ -504,3 +504,5 @@ nunca puede ser verdadera.
 - Representación de números decimales
 - Dificultad en la realización de operaciones de comparación
 
+## Complemento a 2 (Ca2)
+- Este sistema permite tener números negativos usando la aritmètica del sistema BSS, esto hace que se abaraten los costos porque la ALU no utiliza muchos circuitos
