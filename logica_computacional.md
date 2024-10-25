@@ -506,3 +506,9 @@ nunca puede ser verdadera.
 
 ## Complemento a 2 (Ca2)
 - Este sistema permite tener números negativos usando la aritmètica del sistema BSS, esto hace que se abaraten los costos porque la ALU no utiliza muchos circuitos
+
+## Semisumador
+- circuito para sumar 2 números binarios de 1 dígito 
+
+## Sumador completo
+- Circuito que calcula la suma de 3 dígitos binarios o más
