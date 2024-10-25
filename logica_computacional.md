@@ -512,3 +512,15 @@ nunca puede ser verdadera.
 
 ## Sumador completo
 - Circuito que calcula la suma de 3 dígitos binarios o más
+
+## Multiplexor o MUX
+- Circuito que tiene muchas entradas y 1 sola salida.
+- Selecciona una entrada para enarla a la salida según el conjunto de entradas, o sea, es un selector de entrada. El número de entradas determina cual se selecciona.
+- En su lógica incluye un decodificador para controlar cual entrada va a la salida
+
+-   c0      c1
+-   0       0     = a
+-   0       1     =B
+-   1       0     =C
+-   1       1     =D
+
