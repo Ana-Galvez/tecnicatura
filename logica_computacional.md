@@ -534,3 +534,6 @@ nunca puede ser verdadera.
 -  1    0   = sale por c
 -  1    1   = sale por d
 
+## Multiplexores y demultiplexores
+- Permiten seleccionar y direccionar señales de entrada a traves de 1 sola linea de entrada o salida
+
