@@ -524,3 +524,13 @@ nunca puede ser verdadera.
 -   1       0     =C
 -   1       1     =D
 
+## Demultiplexor o DEMUX
+- Circuito que tiene una sola entrada y muchas salidas. Es un selector de salida. El número de salidas determina que salida recibirá la entrada
+- la salida en 2 elevado a la cantidad de controles
+
+-  c0   c1
+-  0    0   = sale por a
+-  0    1   = sale por b
+-  1    0   = sale por c
+-  1    1   = sale por d
+
