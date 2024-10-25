@@ -537,3 +537,15 @@ nunca puede ser verdadera.
 ## Multiplexores y demultiplexores
 - Permiten seleccionar y direccionar señales de entrada a traves de 1 sola linea de entrada o salida
 
+## Codificador
+- Circuito de n entradas y menos salidas, codificando las entradas en forma más compacta. El número de bits de salida es menor que el número de bits de entrada. Se usan para la compresión de datos y reducción de tamaño de datos.
+- Pasa de decimal a binario
+- Si hubiera 2 o más entradas con 1, hay que ver la prioridad y tener una entrada activa.
+- D > c > b > A
+
+-  a   b   c   d   y  z
+-  1               0  0
+-      1           0  1
+-          1       1  0
+-              1   1  1
+
