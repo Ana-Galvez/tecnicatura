@@ -201,6 +201,7 @@ Complemento de A∪B
 - dominio: elementos del conjunto de partida 
 - codominio: elementos del conjunto de llegada
 - imagen, rango o conjunto imagen: elementos del conjunto de llegada que intervienen en una relación
+- Puntos notables: son las coordenadas que ayudan a construir de forma gráfica un función
 
 ### Representación de funciones
 1. Verbal
@@ -208,3 +209,13 @@ Complemento de A∪B
 3. Tabla de valores
 4. Diagrama sagital
 5. Gráfico
+
+### Tipos de funciones
+1. Polinómicas
+- Hay de diferentes grados: grado 0 es constante, grado 1 lineal, grado 2 cuadrática, etc
+- Las potencias deben ser enteras, ejemplo x elevada a la 1/2 no es polinómica   raíz de 3 tampoco
+- En principio, porque depende la función el dominio son todos los reales
+- En principio, porque depende la función la imágen son todos los reales
+- Raíz o raíces del polinomio o ceros de la función, desde 0 hasta el grado del polinomio. Es cuando y vale 0
+- Ordenada al origen: cuando x es cero
+
