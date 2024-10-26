@@ -549,3 +549,16 @@ nunca puede ser verdadera.
 -          1       1  0
 -              1   1  1
 
+## decodificador
+- Circuito de n entradas y muchas salidas(2 a la n), decodificando la entrada en forma más extensa. El número de bits de salida es mayor que entrada. Se usan en expansión de datos y recuperación de info. Solo se habilita 1 sola salida
+- pasa de binario a decimal. La salida es 2 elevado a la cantidad de entradas
+
+- a   b     w   x   y  z
+- 0   0     1
+- 0   1         1
+- 1   0             1
+- 1   1                 1
+
+- Si se agrega una habilitación, si es 0  todo da 0, si habilitación es 1, entonces funcionará dependiendo las entradas.
+
+
