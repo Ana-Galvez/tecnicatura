@@ -219,3 +219,21 @@ Complemento de A∪B
 - Raíz o raíces del polinomio o ceros de la función, desde 0 hasta el grado del polinomio. Es cuando y vale 0
 - Ordenada al origen: cuando x es cero
 
+2. Racionales
+- Son aquellas que en su fórmula tiene una fracción   ej   (5x+2)/(x-3)
+- El numerador y denominador deben ser funciones polinómicas
+- Siempre verificar que valor de x en el denominador da 0 para excluirlo
+- El dominio de una función racional en principio son todos los reales excepto el valor que hace que el denominador sea 0
+- La imagen en principio son todos los reales excepto si no hay raíces que se exceptua el valor
+- Las raíces desde 0 a 1, si al calcular la raíz da 0 es porque no corta al eje x
+- La ordenada cuando x es 0, pero hay que ver que el 0 no anule al denominador, si lo anula entonces no hay ordenada al origen
+- Tiene asíntota vertical: línea imaginaria vertical que indica que la función racional se acerca a la asíntota pero nunca la toca
+  - Su valor no pertenece al dominio de la función. Pero hay que analizar que el o los valores que no pertenecen al dominio no anulen el numerador de la función.
+- Tiene asíntota horizontal: línea imaginaria horizontal que indica que la función racional se acerca a la asíntota pero nunca la toca
+  - se debe tener en cuenta el grado del polinomio del numerador y denominador:
+  1. si el grado del numerador es menor que el denominador: la asíntota H es y=0
+  2. si el grado de numerador es = que el denominador: la asíntota H es   y= (coeficiente principal del numerador)/(coeficiente principal del denominador)
+  - El coeficiente principal es el número que acompaña a la x que tiene el mayor grado
+  3. si el grado del numerador es mayor que el denominador: la función no tiene asíntota H
+- Función homográfica: es si el cociente entre 2 polinomios de grado 1 no comparten raíces
+
