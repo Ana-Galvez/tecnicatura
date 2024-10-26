@@ -561,4 +561,7 @@ nunca puede ser verdadera.
 
 - Si se agrega una habilitación, si es 0  todo da 0, si habilitación es 1, entonces funcionará dependiendo las entradas.
 
+## codificadores y decodificadores
+- comprimen y descomprimen la información
+
 
