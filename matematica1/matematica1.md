@@ -246,3 +246,5 @@ Complemento de A∪B
 - cuando la x es la potencia y su base es mayor a 0 y su base diferente a 1, porque sino sería constante   ej a elevado x+2*3
 - Siempre tienen asíntota horizontal
 
+5. Logaritmicas
+- siempre tienen asíntota vertical
