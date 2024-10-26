@@ -237,3 +237,7 @@ Complemento de A∪B
   3. si el grado del numerador es mayor que el denominador: la función no tiene asíntota H
 - Función homográfica: es si el cociente entre 2 polinomios de grado 1 no comparten raíces
 
+3. Irracionales
+- Aquella que tiene raíz y dentro debe ser un polinomio o racional  ej √4x-3
+- si la raíz es par, lo de adentro no puede dar negativo
+- dominio: si raíz par entonces dom mayor o igual que 0,  si raíz impar son todos los reales
