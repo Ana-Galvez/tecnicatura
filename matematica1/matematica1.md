@@ -265,3 +265,6 @@ Complemento de A∪B
 10. el limite de la raiz es la raiz del limite
 11. sustitución directa
 
+### Limites al infinito
+- cuando x toma valores muy grandes
+
