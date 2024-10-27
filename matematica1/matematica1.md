@@ -248,3 +248,20 @@ Complemento de A∪B
 
 5. Logaritmicas
 - siempre tienen asíntota vertical
+
+## Límites
+- es el valor al que se acercan las imágenes cuando los valores de x se acercan a un valor concreto o a valores cada vez más grandes
+
+### Propiedades
+1. el límite de una constante, es la misma constante
+2. el límite de la función cuando f de x=x  es tiende a x  es X
+3. potencia entera positiva en la x , también es el tiende a x 
+4. raiz entera positiva de x tiembien es el tiende a X
+5. el límite de una suma o resta es la suma o resta de los límites de cada término
+6. el límite de un producto es el producto de los limites
+7. el límite de una constante por una función es la constante por el límite de la función
+8. el límite de un cociente es la división de los límites siempre que el cociente no sea cero
+9. el límite de una potencia es la potencia del limite
+10. el limite de la raiz es la raiz del limite
+11. sustitución directa
+
