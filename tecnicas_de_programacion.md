@@ -207,3 +207,8 @@ ej BIEN  Definir edad_mayor como Entero,   Definir nombre como Cadena,  Definir 
 2. Procedimiento: se procesan datos, devolviendo al programa principal o solo mostrando. Devuelve 0,1 o más datos. Siempre lo hace por medio de parámetros
 - parámetros de entrada: valores proporcionados por el programa principal. Si la info no tiene que ser devuelta fuera del módulo, el parámetro puede ser un valor.
 - parametros de salida: valores se calculan en la rutina y se devuelven al programa principal. Si se debe retornar, debe ser por referencia.
+- si la info puede ser modificada y se devuelve un nuevo valor, el parámetro es por dirección  parámetro entrada/salida
+
+### tipos de parámetros
+1. por valor: recibe un valor del argumento cuando se crea el parámetro. es una copia y si dentro de la ejecución del procedimiento se usa y cambia, no va a cambiar en el programa principal.  en el prog principal se mantiene el scope
+2. por referencia: recibe la referencia del argmento. si dentro del procedimiento se altera, va a cambiar. La variable se actualiza sin importar scope.
