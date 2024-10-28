@@ -212,3 +212,10 @@ ej BIEN  Definir edad_mayor como Entero,   Definir nombre como Cadena,  Definir 
 ### tipos de parámetros
 1. por valor: recibe un valor del argumento cuando se crea el parámetro. es una copia y si dentro de la ejecución del procedimiento se usa y cambia, no va a cambiar en el programa principal.  en el prog principal se mantiene el scope
 2. por referencia: recibe la referencia del argmento. si dentro del procedimiento se altera, va a cambiar. La variable se actualiza sin importar scope.
+
+### tipos de funciones
+1. sin parámetros y no devuelve nada, ej doc.    procedimiento
+2. solo parámetros ej mostrar algo en pantalla    procedimiento
+3. sin parámetros y devuelve un valor
+4. con parámetros y devuelve un valor.
+
