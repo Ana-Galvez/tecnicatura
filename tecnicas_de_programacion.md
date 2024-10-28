@@ -210,7 +210,7 @@ ej BIEN  Definir edad_mayor como Entero,   Definir nombre como Cadena,  Definir 
 - si la info puede ser modificada y se devuelve un nuevo valor, el parámetro es por dirección  parámetro entrada/salida
 
 ### tipos de parámetros
-1. por valor: recibe un valor del argumento cuando se crea el parámetro. es una copia y si dentro de la ejecución del procedimiento se usa y cambia, no va a cambiar en el programa principal.  en el prog principal se mantiene el scope
+1. por valor: recibe un valor del argumento cuando se crea el parámetro. es una copia y si dentro de la ejecución del procedimiento se usa y cambia, no va a cambiar en el programa principal.  en el prog principal se mantiene el scope. es pasar datos explicitos o variables al llamar a la función.
 2. por referencia: recibe la referencia del argmento. si dentro del procedimiento se altera, va a cambiar. La variable se actualiza sin importar scope.
 
 ### tipos de funciones
