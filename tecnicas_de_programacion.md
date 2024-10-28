@@ -203,3 +203,5 @@ ej BIEN  Definir edad_mayor como Entero,   Definir nombre como Cadena,  Definir 
 
 ## Métodos, funciones, procedimientos, rutinas
 - Varían, depende la época y lenguaje de programación, aunque básicamente significan lo mismo
+1. Función: resulve algo y devuelve 1 solo resultado. Hay propios del lenguaje(métodos) y hechos por los programadores
+2. Procedimiento: se procesan datos, devolviendo al programa principal o solo mostrando. Devuelve 0,1 o más datos. Siempre lo hace por medio de parámetros
