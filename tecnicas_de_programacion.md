@@ -200,3 +200,6 @@ ej BIEN  Definir edad_mayor como Entero,   Definir nombre como Cadena,  Definir 
 
 ### Método
 - Es un bloque  de código que contiene instrucciones donde se especifica los nombres y tipos de datos con los parámetros necesarios. Los argumentos deben coincidir con la cantidad de parámetros y su tipo, pero nombre no es necesario que coincida.
+
+## Métodos, funciones, procedimientos, rutinas
+- Varían, depende la época y lenguaje de programación, aunque básicamente significan lo mismo
