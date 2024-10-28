@@ -205,3 +205,5 @@ ej BIEN  Definir edad_mayor como Entero,   Definir nombre como Cadena,  Definir 
 - Varían, depende la época y lenguaje de programación, aunque básicamente significan lo mismo
 1. Función: resulve algo y devuelve 1 solo resultado. Hay propios del lenguaje(métodos) y hechos por los programadores
 2. Procedimiento: se procesan datos, devolviendo al programa principal o solo mostrando. Devuelve 0,1 o más datos. Siempre lo hace por medio de parámetros
+- parámetros de entrada: valores proporcionados por el programa principal. Si la info no tiene que ser devuelta fuera del módulo, el parámetro puede ser un valor.
+- parametros de salida: valores se calculan en la rutina y se devuelven al programa principal. Si se debe retornar, debe ser por referencia.
