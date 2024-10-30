@@ -295,8 +295,18 @@
 
 #### right outer join 
 - es la intersección más lo que tiene la tabla de la izquierda
-- - con exclusión:  B - A  where A.  is null
+- con exclusión:  B - A  where A.  is null
 
 #### Union
 - junta todos los datos en un misma columna, las columnas del select deben tener el mismo nombre y tipo, sino se agregarán más filas
 - select nombre,apellido from cliente union select nombre,apellido from vendedor
+
+### Procedimientos almacenados (store procedure)
+- subalgoritmo que forma parte del algoritmo principal que permite resolver una tarea específica. Son conjuntos de instrucciones SQL.
+- están dentro de la BBDD
+- son pequeños programas
+- mejora la seguridad
+- implementan funcionalidad
+1. se usa porque el código se precompila, se reduce el tráfico entre cliente y servidor y permite la reutilización de código
+2. No se debe usar: porque cada gestor de BBDD tiene un grado distinto de sofisticación (su propio código)
+
