@@ -320,3 +320,7 @@
 - en procedimientos al usar bloques el punto y coma genera errores. Entonces para solucionarlo se usa la palabra delimiter y el signo
 - delimiter //
 
+#### Procedure/function
+- las sentencia que se usan dentro: insert, update,select,drop,create
+- las que NO: create procedure,alter procedure, drop procedure, create function, drop function, create trigger, drop trigger.
+
