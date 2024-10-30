@@ -362,3 +362,8 @@
 - END IF;
 - END LOOP;
 
+#### Parámetros
+- son los valores que el procedimiento espera que se pase al llamarlo. Se los agrega al crear el procedimiento o función después del nombre
+1. In= es opcional poner in. Estos valores no se van a conservar al terminar el procedimiento
+2. Out= se pueden acceder más adelante
+3. inout= combinación de ambas, se recibe variables de entrada que se pueden acceder más adelante.
