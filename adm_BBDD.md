@@ -315,3 +315,8 @@
 - SET @nombre=valor
 - el nombre NO es case sensitive. Se recomientda usar como máximo 8 caracteres.
 
+#### Delimitador
+- es el símbolo que se coloca al final de la instrucción, generalmente el punto y coma;
+- en procedimientos al usar bloques el punto y coma genera errores. Entonces para solucionarlo se usa la palabra delimiter y el signo
+- delimiter //
+
