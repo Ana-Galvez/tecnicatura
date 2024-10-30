@@ -324,3 +324,23 @@
 - las sentencia que se usan dentro: insert, update,select,drop,create
 - las que NO: create procedure,alter procedure, drop procedure, create function, drop function, create trigger, drop trigger.
 
+##### Procedure
+- delimiter //
+- create procedure nomProcedimiento()
+- begin
+-         body
+- end//
+- call nomProcedimiento()
+
+#### Function
+- create function nomFuncion returns tipodato
+- begin
+-   body
+-   return valor
+- end//
+- select nomFuncion
+
+- en el body se agregan variables que se mantienen durante el procedimiento
+- DECLARE nomvar tipodato;
+- set nomvar=valor;
+
