@@ -310,3 +310,8 @@
 1. se usa porque el código se precompila, se reduce el tráfico entre cliente y servidor y permite la reutilización de código
 2. No se debe usar: porque cada gestor de BBDD tiene un grado distinto de sofisticación (su propio código)
 
+#### Variable de usuario
+- al abrir el sistema BBDD se ingresa un usuario. Ese usuario puede almacenar una variable para usarlo después, mientras no cierre la sesión.
+- SET @nombre=valor
+- el nombre NO es case sensitive. Se recomientda usar como máximo 8 caracteres.
+
