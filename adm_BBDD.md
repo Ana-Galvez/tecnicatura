@@ -344,3 +344,21 @@
 - DECLARE nomvar tipodato;
 - set nomvar=valor;
 
+#### Estructuras de control
+1. bloque if
+- IF expresion THEN
+- ELSE
+- END IF;
+
+2. Ciclo while
+- WHILE expresion DO
+- END WHILE;
+
+3. ciclo loop   do while
+- LOOP
+- código
+- IF var >= valor then
+-     leave etiqueta
+- END IF;
+- END LOOP;
+
