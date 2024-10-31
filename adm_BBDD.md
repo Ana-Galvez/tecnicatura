@@ -377,3 +377,8 @@
 2. read-only: no se modifica el resultado
 3. non scrollable: se accede a las filas de a una  y solo hacia adelante
 
+- ej   Declare nomcursor cursor for  "sentencia select"
+- open nomcursor
+- fetch nomcrsor into var1,var2;    ej (select colsocio(var1), nombre(var2))
+- close nomcursor
+
