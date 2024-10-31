@@ -371,3 +371,9 @@
 - ej delimiter //
 - CREATE PROCEDURE nomProcedure(in/out/inout nomParametro tipodedato)
 
+### Cursores
+- son tipo procedimientos que permiten almacenar el resultado de una consulta para examinarla fila por fila
+1. asensitive: el servidor puede o no hacer una copia del resultado
+2. read-only: no se modifica el resultado
+3. non scrollable: se accede a las filas de a una  y solo hacia adelante
+
