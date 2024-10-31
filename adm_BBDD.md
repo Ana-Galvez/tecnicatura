@@ -383,3 +383,18 @@
 - fetch nomcrsor into var1,var2;    ej (select colsocio(var1), nombre(var2))
 - close nomcursor
 
+- ej  delimiter //
+- create procedure nomProcedure()
+- begin
+-    declare var boolean default false;   es para el handler
+-    declare a int;  var columna1
+-    declare b varchar(16);   var columna2
+-    declare nomcursor CURSOR FOR SELECT id,dato FROM tabla;
+-    declare continue HANDLER for not found set var=false;
+-    open nomcursor;
+-    fetch nomcursor into a,b;
+-    while var=false do     recorre las filas
+-        fetch nomcursor into a,b;
+-    end while;
+-    close nomcursor;
+- end//
