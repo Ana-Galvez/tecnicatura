@@ -376,6 +376,7 @@
 1. asensitive: el servidor puede o no hacer una copia del resultado
 2. read-only: no se modifica el resultado
 3. non scrollable: se accede a las filas de a una  y solo hacia adelante
+4. Para ver cuando termina de leer las filas se usa handler
 
 - ej   Declare nomcursor cursor for  "sentencia select"
 - open nomcursor
