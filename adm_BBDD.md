@@ -419,3 +419,16 @@
 5. cuerpo: es la acción a realizar sql
 6. se los puede eliminar con drop trigger nombre
 
+#### disparador con sentencias múltiples
+- usan delimiter
+- usan begin end
+
+
+- insert trigger new    ingresa valor
+- update trigger old   valor anterior a la acción
+- update trigger new valor posterior
+- delete trigger old
+- old columna   solo lectura
+- new columna (se referencia si tiene select)
+- disparador before set new nombre_col=valor  si hay update
+- disparador before con new en columna auto_increment=0
