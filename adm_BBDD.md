@@ -409,3 +409,6 @@
 3. acción: un procedimiento que se invoca cuando el disparador se activa y se cumple su condición
 4. momento: es cuando se ejecuta la acción si antes o después del evento
 
+- create trigger <<nombre momento evento>>
+-    on <<tabla>> for each row <<cuerpo>>
+
