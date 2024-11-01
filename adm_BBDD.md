@@ -404,3 +404,8 @@
 - Hacerlo es responsabilidad del dba (encargado de los aspectos técnicos, tecnológicos, científicos y legales de la bbdd)
 - a las BBDD con trigger se los las llaman BBDD activas
 
+1. evento: es el cambio que activa el disparador
+2. condición: es una query que se ejecuta al activarse el disparador
+3. acción: un procedimiento que se invoca cuando el disparador se activa y se cumple su condición
+4. momento: es cuando se ejecuta la acción si antes o después del evento
+
