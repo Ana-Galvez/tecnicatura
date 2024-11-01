@@ -398,3 +398,9 @@
 -    end while;
 -    close nomcursor;
 - end//
+
+### Trigger o disparador
+- procedimiento almacenado invocado automáticamente por el SGBD por reacciones a cambios específicos en la BBDD.
+- Hacerlo es responsabilidad del dba (encargado de los aspectos técnicos, tecnológicos, científicos y legales de la bbdd)
+- a las BBDD con trigger se los las llaman BBDD activas
+
