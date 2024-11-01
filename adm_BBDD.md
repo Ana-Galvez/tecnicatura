@@ -412,3 +412,10 @@
 - create trigger <<nombre momento evento>>
 -    on <<tabla>> for each row <<cuerpo>>
 
+1. nombre: nombre de disparador, es único en toda la base de datos
+3. momento: before, antes de la activación del disparador o after
+3. evento: insert,update,delete
+4. tabla: no puede ser temporal ni una vista
+5. cuerpo: es la acción a realizar sql
+6. se los puede eliminar con drop trigger nombre
+
