@@ -438,3 +438,7 @@
 - depende de la lógica de app
 - puede pasar que haya varias secuencias en progreso y por esto el SGBD emplea una técnica que bloquea todos los datos modificados por una UTL hasta que ésta termine todo y recién ahí inicia otra UTL, permitiendo acceder a los datos modificados.
 
+1. De confirmación automática: el SGBD inicia una transacción automáticamente por cada operación que actualice datos. Mantiene consistencia, pero puede generar bloqueos.
+2. Implícitas: el SGBD inicia una transacción, pero el programador debe indicar cuando termina.
+3. Explícitas: la inicia el programador por SQL dando 2 posibles instrucciones para indicar el final. 1 en caso de éxito y otra en caso de fracaso.
+
