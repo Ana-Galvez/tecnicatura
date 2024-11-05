@@ -400,6 +400,35 @@
 - end//
 
 ### Trigger o disparador
-- Procedimiento almacenado invocado automáticamente por el SGBD por reacciones a cambios espedíficos en la BBDD.
-- Hacerlo es responsabilidad del DBA (encargado de los aspectos técnicos, tecnológicos, científicos y legales de la BBDD)
-- A las BBDD con trigger se las llaman BBDD activas.
+- procedimiento almacenado invocado automáticamente por el SGBD por reacciones a cambios específicos en la BBDD.
+- Hacerlo es responsabilidad del dba (encargado de los aspectos técnicos, tecnológicos, científicos y legales de la bbdd)
+- a las BBDD con trigger se los las llaman BBDD activas
+
+1. evento: es el cambio que activa el disparador
+2. condición: es una query que se ejecuta al activarse el disparador
+3. acción: un procedimiento que se invoca cuando el disparador se activa y se cumple su condición
+4. momento: es cuando se ejecuta la acción si antes o después del evento
+
+- create trigger <<nombre momento evento>>
+-    on <<tabla>> for each row <<cuerpo>>
+
+1. nombre: nombre de disparador, es único en toda la base de datos
+3. momento: before, antes de la activación del disparador o after
+3. evento: insert,update,delete
+4. tabla: no puede ser temporal ni una vista
+5. cuerpo: es la acción a realizar sql
+6. se los puede eliminar con drop trigger nombre
+
+#### disparador con sentencias múltiples
+- usan delimiter
+- usan begin end
+
+
+- insert trigger new    ingresa valor
+- update trigger old   valor anterior a la acción
+- update trigger new valor posterior
+- delete trigger old
+- old columna   solo lectura
+- new columna (se referencia si tiene select)
+- disparador before set new nombre_col=valor  si hay update
+- disparador before con new en columna auto_increment=0
