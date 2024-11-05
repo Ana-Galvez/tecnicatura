@@ -442,3 +442,7 @@
 2. Implícitas: el SGBD inicia una transacción, pero el programador debe indicar cuando termina.
 3. Explícitas: la inicia el programador por SQL dando 2 posibles instrucciones para indicar el final. 1 en caso de éxito y otra en caso de fracaso.
 
+- en MySQL: solo InnoDB soporta el uso de Transacciones
+- start transaction o begin
+- rollback: en caso de problemas fuerza el cierre
+- commint: confirma las operaciones de la transacción, danto éxito y cerrando la transacción
