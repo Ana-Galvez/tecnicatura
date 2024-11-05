@@ -432,3 +432,9 @@
 - new columna (se referencia si tiene select)
 - disparador before set new nombre_col=valor  si hay update
 - disparador before con new en columna auto_increment=0
+
+### Transacciones o ULT  unidad lógica de trabajo
+- Secuencia de operaciones que modifican los datos pasándolos de un estado coherente a otro. Secuencias de actualizaciones sobre las tablas que deben realizarse completa o no realizarse en absoluto pero nunca a medias, porque sino los datos podrían quedar lógicamente incoherentes.
+- depende de la lógica de app
+- puede pasar que haya varias secuencias en progreso y por esto el SGBD emplea una técnica que bloquea todos los datos modificados por una UTL hasta que ésta termine todo y recién ahí inicia otra UTL, permitiendo acceder a los datos modificados.
+
