@@ -572,4 +572,6 @@ nunca puede ser verdadera.
 
 ### Bus
 - es una especie de camino para las señales digitales compuesto por un conjunto de conexiones físicas y una serie de especificaciones eléctricas relativas a esas señales
-
+1. bus de dirección: es unidireccional, desde la cpu a la memoria o a los elementos de entrada/salida
+2. bus de datos: es bidireccional, desde y hacia el cpu
+3. bus de control: puede ser de ida o puede ser de vuelta. Sincronizan las actividades y transacciones con los periféricos del sistema. Las señales más importantes son las de cronómetro, que generan los intervalos de tiempo de las operaciones.
