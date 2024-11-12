@@ -570,4 +570,6 @@ nunca puede ser verdadera.
 - es un microprocesador con una serie de circuitos
 - extrae cada instrucción y la lleva a cabo
 
+### Bus
+- es una especie de camino para las señales digitales compuesto por un conjunto de conexiones físicas y una serie de especificaciones eléctricas relativas a esas señales
 
