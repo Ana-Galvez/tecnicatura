@@ -564,4 +564,10 @@ nunca puede ser verdadera.
 ## codificadores y decodificadores
 - comprimen y descomprimen la información
 
+## CPU central processor unit o UCP
+- cerebro de la pc
+- controla todo lo que la pc hace
+- es un microprocesador con una serie de circuitos
+- extrae cada instrucción y la lleva a cabo
+
 
